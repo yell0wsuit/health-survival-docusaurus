@@ -16,7 +16,7 @@ const config = {
   url: 'https://articles.yell0wsuit.page',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/health-and-survival',
+  baseUrl: '/health-and-survival/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
