@@ -17,6 +17,7 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
   --ifm-heading-font-family: Inter, system-ui;
   --ifm-font-family-base: Inter, system-ui;
+  --ifm-link-decoration: underline;
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
@@ -31,15 +32,29 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
-
 @font-face {
-    font-family: 'Inter';
-    src: url('/fonts/InterVariable.woff2');
-    font-style: normal;
+  font-family: 'Inter';
+  src: url('/fonts/InterVariable.woff2');
+  font-style: normal;
 }
 
 @font-face {
-    font-family: 'Inter';
-    src: url('/fonts/InterVariable-Italic.woff2');
-    font-style: italic;
+  font-family: 'Inter';
+  src: url('/fonts/InterVariable-Italic.woff2');
+  font-style: italic;
+}
+
+article {
+  max-width: 720px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.menu__link, .table-of-contents__link, .navbar__brand, .breadcrumbs__link, .pagination-nav__link, a.card, .navbar__link {
+  text-decoration: none;
+}
+
+.table-of-contents .table-of-contents__link--active {
+  border-left: .125rem solid var(--ifm-link-color);
+  padding: .125rem 0 .125rem .75rem;
 }
