@@ -1,0 +1,595 @@
+---
+title: Essentials
+sidebar_label: Essentials
+sidebar_position: 1
+tags:
+- sas-urban
+---
+
+import BaseUrlImg from '@site/src/components/BaseUrlImg';
+
+![ ](/images/erol-ahmed-mfEeaOfacTQ-unsplash.webp)
+
+We are constantly reminded that the world is a dangerous place&mdash;pollution, food processing, violence and natural disasters are all beyond our
+direct control. City life adds further stresses, which may become too much to bear.
+
+<div class="text--center">
+<BaseUrlImg src="/images/img007_001.jpg" />
+</div>
+
+## **BE A SURVIVOR!**
+Every man, woman and child has to face a multitude of dangers in their lives. The added pressures of urban life can often make those VITAL to
+understand the dangers at home, at work, on the streets (at least) and to get to grips with as many as possible. Take control! The safer you make
+your day-to-day existence, the better able you will be (and the more time and energy you will have) to deal with major crises. How can you expect
+to deal with a serious health, emotional or financial set-bock, if you&#39;re totally preoccupied with surviving the dangers of your own home?
+
+Your strategy must be to avoid unnecessary risks in the urban environment and minimize the damage caused by those you can&#39;t avoid. You must
+develop an attitude to urban life that will help you cope with all kinds of situations.
+
+![ ](/images/img008_002.jpg)
+
+### Safety and security
+
+
+The first place to make safe and secure MUST be your home. Make sure that the structure of the building is safe and keep it that way. Prepare it
+to withstand both the pressures of natural forces and the added hazards of modern cities. Older houses, in particular, may be affected by damp,
+insect infestation, rot, settlement and subsidence. All fixtures and fittings should be carefully checked to ensure that they do not invite
+accident and immediate action taken if they do.
+
+
+Everything must be made secure against intruders primarily because YOU might be at risk. People have been attacked and even held hostage in their
+own homes. If you decide to put things right yourself, make sure you really CAN do the job. In the end, it may not be worth the aggravation.
+Unskilled DIY is the cause of an enormous number of injuries&mdash;bodged jobs can lead to more stress and further accidents.
+
+
+The workplace needs to be as safe and secure as the home. It may include machinery, chemical hazards or processes that are highly dangerous. Many
+jobs are made difficult enough by heavy competition and stress. At home, you may be able to sort things out yourself, but it&#39;s more
+complicated to deal with dangers at work and in public places.
+
+
+Leisure activities, too, bring their own risks. The element of danger may give a &#39;thrill&#39; which is an essential part of some hobbies and
+sports &ndash; but a severe injury could be disastrous.
+
+
+Travel, for business or for pleasure, brings new risks to be assessed and prepared for. There have always been the problems of adapting to a
+change of diet and climate, and having to cope with a society whose language and social rules you do not understand. These are made worse by jet
+lag, the strain of airport high-security procedures and the fear of terrorism. Wherever you are, there is a possibility of danger from natural
+phenomena and from human violence &ndash; you could get caught up in an earthquake or be mugged.
+
+
+## **AGAINST ALL ODDS**
+
+
+Take control of yourself, your health and your immediate surroundings. On a simple practical level, there&#39;s a lot you can do to make life
+safer and less complicated&mdash;but you must do so against a backdrop of constant natural and man-made danger. You can&#39;t change the world,
+but you can HELP! Minimize the risks to yourself by understanding some of the dangers. DON&#39;T contribute to the world-pollution crisis.
+
+
+### Natural enemies
+
+
+Some hazards exist as part of nature. There is a huge number of poisonous plants commonly found in gardens or indoors as pot plants. Some are
+deadly if eaten, others cause irritation when they come into contact with the skin. DO NOT eat any plant, unless it is already a recognized
+&#39;food&#39;. Even some everyday food plants are poisonous if eaten in their raw state, including the familiar potato. Its flowers, Leaves and
+stems are poisonous, as are the potatoes themselves if eaten raw&mdash;especially if they are green!
+
+
+Cockroaches, fleas, rats and other common vermin help to spread disease. Rats alone have been responsible for the spread of plague (transmitted by
+rat fleas) and a serious illness called Weil&#39;s disease is carried in their urine. And, of course, there is a multitude of poisonous and
+dangerous animals, reptiles, fish and insects the world over&mdash;from Australia to India and America to the Arctic Circle.
+
+
+There is even a risk from the life-giving sun itself. Over-exposure, Especially of skin that hasn&#39;t seen the sun for months, can lead to skin
+cancers if no protective barrier is worn.
+
+
+Radon gas is major hazard, although not specifically a city problem. It occurs mainly in areas built on granite, where the rock contains uranium
+238 and thorium. Official figures indicates that radon gas is responsible for 20,000 deaths in the USA alone, everyone year. The carcinogenic
+(cancer-producing) gas rises through the ground and up into buildings. Sealing floors and improving ventilation is one of the recommendations for
+reducing exposure.
+
+
+### Pollution
+
+
+Many of the environmental problems of our cities can be traced directly to ourselves. In most densely-populated parts of the world, industrial,
+domestic and traffic emissions so pollute the environment that large numbers of the population &ndash; especially children-suffer from respiratory
+problems and various forms of chemical poisoning.
+
+
+It is only really in this century that people began to realize the link between industrial and domestic smoke and air pollution. Avoiding the
+filthy air was one reason why cities spread away from their industrial hearts.
+
+
+Clean-air legislation has make some progress, but traffic emissions and the burning of fossil fuels still pollute the air of most of the
+world&#39;s cities. Often the atmosphere is so contaminated that even the buildings are being slowly eaten away by the chemical-laden air and
+rain.
+
+
+Of course. It is not just our cities that are affected by air pollution. When major atmospheric pollution combines with moisture, sulphuric acid,
+sulphites and sulphur dioxide are produced. These spread around the globe, falling as acid rain. This affects people, trees, plants and animals
+thousands of miles away. It also leaches mercury, iron, cadmium and magnesium out of soil to pollute streams and rivers, further poisoning fish
+and other wildlife.
+
+
+The acid content of the water increases the risks of poisoning the drinking supply. Many harmful chemicals also escape the filters of the
+water-treatment systems.
+
+
+Gases such as carbon dioxide have built up in the atmosphere, contributing to a so-called global warming&mdash;the &#39;greenhouse
+effect&#39;&mdash;which may dramatically change the world&#39;s climate and sea levels. Inadequate controls and accidents have led to horrific
+spillages of radiation, poisonous gases and chemicals, often in densely populated areas.
+
+:::info[Chemical Sprays]
+
+
+If you must use <a href="./04-sas-urban-poison#pesticides">pesticides</a>, fungicides or weedkillers in your own garden, be careful to avoid skin
+contact or inhalation of droplets or vapors. Even those of low toxicity can do you harm. Toxic effects vary considerably, but most of the
+chemicals you will use will persist in the soil. DDT is now banned, in most countries, but even a newborn baby has traces in its body tissues.
+2, 4, 5-T was found to cause horrific disorders, several years ago, but is still available.
+
+:::
+
+### Radiation
+
+
+There has always been a background level of radioactivity from natural sources, but the development of nuclear power whether for peaceful or
+military purposes-has greatly increased the risks. Incidents such as those at Chernobyl and Three Mile Island have made our worst fears REAL.
+Fallout from Chernobyl has disastrously affected an enormous number of lives in many countries.
+
+:::danger[Warning]
+
+
+X-rays have been found to cause ionization in the living cells through which they pass. It is known that they can have a cumulative effect on
+the body-and should only be given when absolutely necessary. X-ray &#39;photographs&#39; are produced because some body tissues absorb higher
+levels of radiation than others. Bones absorb the most, so they appear as a lighter image on the plate. Changes can occur in bone marrow and
+white blood cells. Keep a personal record of any x-rays&mdash;part of body, date, reason&mdash;not forgetting dental x-rays.
+
+:::
+
+### We are what we eat
+
+
+Much of the food we eat now often carries a heavy dosage of chemicals absorbed from <a href="./04-sas-urban-poison#pesticides">pesticides</a> and
+artificial fertilizers (which also leach into waterways and pollute them). Many foods are also over-processed or in some way &#39;interfered
+with&#39; before they reach us.
+
+
+For the city dweller, growing your own food&mdash;however organically&mdash;is no longer safe. Research has suggested that home-grown vegetables
+in many city gardens absorb even more pollutants from the air than are present in most non-organically grown farm produce. Lettuce is the
+worst&mdash;it absorbs more nitrates and lead than any other vegetable.
+
+
+It may not be safe to eat food grown within a seven-mile radius of a major city. Large airports also produce toxins, causing (for instance) very
+high levels of aluminium in the soil.
+
+
+### Processed foods
+
+
+Food marketing today seems to try to make all food look appealing. Food may have been treated with bleach or colourings. Various additives may be
+used to provide or increase flavour or aroma, preservatives to make the food keep longer. Fruit may be sprayed or painted with wax. Irradiation is
+also being used in some countries to kill organisms and increase shelf life of &#39;fresh&#39; products. It is claimed this process has no ill
+effects. Experts differ on this, but there is serious concern&mdash;not least because it is not detectable in most foods. All these additives and
+processes are IN ADDITION TO the chemicals used in growing produce.
+
+
+ALL fruit and vegetables must be THOROUGHLY washed. It is advisable that they should also be peeled, unless you are quite sure that they have been
+organically grown without the use of <a href="./04-sas-urban-poison#pesticides">pesticides</a>. If you like cooking with the zest of citrus fruit or
+baking potatoes in their jackets, you should always be very careful.
+
+
+### It&#39;s up to us
+
+
+We have got to live with these problems and do everything we can to improve things. It will mean a dramatic change in attitudes&mdash;especially
+in our cities&mdash;to conserve energy and produce it in less harmful ways. We are all aware of most of the problems, but action on both the
+personal and governmental level still lags far behind what&#39;s needed. In many cases we have learned too late&mdash;the damage has already been
+done. In some places the countryside, its wildlife and even its people, are sick and dying. We are all at risk. This is the background against
+which you have to solve all your other problems.
+
+:::tip[REMEMBER]
+
+
+The growth of knowledge and understanding, followed by positive action, which has occurred over environmental issues is an example of the
+pattern which YOU should apply to every aspect of your life. Ignorance is definitely NOT bliss! It is a killer. The more you know and
+understand, the better you can cope with any situation. Knowledge will give you confidence and experience will increase your abilities.
+
+:::
+
+## **BODY MATTERS**
+
+
+It&#39;s up to YOU to make sure that you have a balanced diet and proper exercise. Monitor your own health and have regular medical
+check-ups&mdash;particularly if you smoke cigarettes, drink a lot of alcohol or have a hazardous/high-stress job. How much you need to eat depends
+on your physique and the kind of life you lead. Exercise will be more necessary if you have a sedentary job than if your work involves physical
+exertion.
+
+
+Most people have a pretty good idea of when they are over or under weight. If you&#39;re worried about being fat or skinny you should check with
+your doctor, before adopting a particular diet. There could be non-dietary reasons for your condition or you may be worrying needlessly. There are
+a great many cases of severe dietary disorders each year, due to people having distorted ideas of what is a &#39;perfect&#39; physique.
+
+
+In the 1980s, many people&mdash;worried by all the media coverage on diet, sport, fitness and longevity&mdash;took to eating pasta and salads.
+Both are good for you, but don&#39;t constitute an adequate diet on their own. Many people became &#39;hooked&#39; on exercise as
+well&mdash;doctors found that some of their patients were literally exhausted!
+
+
+Vitamin and other dietary supplements should not be necessary, unless you feel particularly &#39;run down&#39; or you&#39;ve been ill. A mixture
+of vegetables, fruit, meat and fish and dairy products is generally believed to provide all the proteins, carbohydrates, vitamins and minerals
+which you need. In recent years, many people have cut down on the amount of meat they eat&mdash;many have stopped eating meat altogether. A
+vegetarian or vegan diet needs more careful planning to ensure the body gets all the nutrients it needs when animal fats and proteins are
+excluded.
+
+:::info[VITAMIN OVERDOSE]
+
+
+Excessive vitamin intake can do as much harm as having too little&mdash;especially for the very young, the elderly and pregnant women.
+It&#39;s quite common to reach toxic levels of some vitamins, especially with today&#39;s super-high-dose supplements. A boost of vitamin C,
+for example, has long been thought to help fight common colds (although there is little scientific evidence for it). An excess increases the
+risk of forming kidney stones. Excessive doses during pregnancy can lead to withdrawal symptoms in newborn infants, producing symptoms very
+like scurvy. Effervescent tablets often consist largely of sodium bicarbonate and this would be a risk to patients on a low sodium diet for
+heart or blood pressure problems. Natural vitamin C from citrus fruits, for example, should be adequate.
+
+:::
+
+### Exercise
+
+
+Don&#39;t suddenly take up strenuous exercise if you have been inactive for a long time. You should have a medical check-up first. You have to
+build up your stamina gradually and match the kind of exercise you do to your age and condition. Most injuries in amateurs occur in the first few
+weeks of a season when people are out of practice&mdash;evidence enough that sudden exercise can be damaging.
+
+
+In fact, every sport and exercise session should start with a warm-up (<a href="./topicid-951#sport">see WORK &amp; PLAY: Sport</a>). Walking and
+swimming provide excellent exercise for all ages and are safe for most people.
+
+:::danger[Warning]
+
+
+If you find that ANY exercise you undertake puts you under uncomfortable strain, causes chest pain or shooting pains down the arms, STOP AT
+ONCE. You may be overdoing it. Have a medical check-up and then opt for a gentler form of exercise. You can increase the work your body has to
+do, as it develops greater strength and stamina. NEVER take strenuous exercise classes in conditions which are very hot or very humid compared
+with those in which you normally live.
+
+:::
+
+### Chemical risks
+
+
+In addition to the toxic substances in the environment and in our food, there are a huge amount of poisons lying around in every home or in daily
+use at work.
+
+
+There are great dangers in presuming that all over-the counter medicinal preparations are totally safe&mdash;and appropriate for the condition YOU
+think you have. Many people dose themselves up to toxic levels.
+
+
+Children are probably at greatest risk&mdash;young developing bodies won&#39;t process chemicals efficiently. In some countries (including
+Britain) it has been decided that aspirin and products containing aspirin are NOT suitable for children under twelve years of age. As we get old,
+our bodies become more delicate again-it&#39;s wise to take a smaller amount and reduce the maximum dosage period of drugs like paracetamol.
+
+
+The threat of poisoning is ever-present, though&mdash;with the bewildering range of toxic and potentially-toxic substances in the house, garden
+and garage/shed (<a href="./04-sas-urban-poison">see POISONS</a>).
+
+
+### Substance abuse
+
+
+It should not be necessary to warn about hard drugs&mdash;in most countries they are illegal&mdash;but drug-taking has long been common among
+young people and those under stress. Quite apart from the physical and mental damage which misuse of drugs can do, obtaining drugs requires
+&#39;stepping outside the law&#39;, in most countries. Funding a serious habit sometimes leads to further involvement in crime.
+
+
+Drug tolerance (larger doses are gradually needed for the same effect) and dependency can develop very rapidly&mdash;DON&#39;T RISK GETTING
+HOOKED!
+
+
+It has often been claimed that the occasional social use of cannabis does much less harm than smoking cigarettes. Prolonged use of cannabis may
+carry a higher risk of lung cancer when mixed with tobacco. Animal tests have indicated that the immune system may be weakened and that the sperm
+count in males may be lowered. Cannabis does not create physical dependence&mdash;there are no definite withdrawal effects.
+
+
+Greater danger may be in contaminants which are likely in cannabis&mdash;powerful weedkillers have been found in some samples. In a purified form,
+cannabis is being considered for various medicinal purposes.
+
+
+The effects of amphetamines, barbiturates, cocaine, heroin and heroin derivatives, solvents, glues and other &#39;abused&#39; substances are much
+more quantifiable&mdash;and much more harmful. All have been associated with countless deaths. But while you sit shaking your head with dismay
+that so many people seem to abuse their bodies with so many chemicals, how much alcohol do you drink? Although legal and socially acceptable in
+most countries, alcohol IS poisonous. It causes millions of deaths directly by poisoning and indirectly through accidents, violence and loss of
+judgement.
+
+
+Tranquillizers are taken by thousands of people every day and can lead to the same &#39;addictive&#39; pattern of tolerance and dependence as
+&#39;illegal&#39; drugs. They should, if absolutely necessary, only be taken for short periods. As soon as you find yourself desperately wanting
+or needing a repeat prescription to be able to cope with life, you are on a dangerous path. You MUST try other methods of relieving stress. You
+need to talk about your problems, solve some of them, find a counsellor or help-group. These will give you long-term help&mdash;tranquillizers
+WON&#39;T. Investigate relaxation techniques.
+
+:::danger[Warning]
+
+
+If you use any relaxant, hallucinogenic or mood-changing drugs-tranquillizers, alcohol, cannabis, LSD, cocaine, heroin, for example-do NOT
+drive a vehicle or operate machinery while under the influence. You may feel perfectly capable, but your reactions and decision-making
+abilities are affected. If ALCOHOL is combined with other drugs it can cause serious problems, even with prescribed drugs. For pregnant women
+these are even more serious since the fetus can be affected.
+
+:::
+:::info[ARE YOU AN ADDICT]
+
+
+There are other &#39;social addictions&#39; that can produce adverse effects. How many cups of tea or coffee do you drink in a day? Tea
+contains tannin, both contain caffeine&mdash;as do soft drinks such as &#39;cola&#39;. Caffeine acts first as a stimulant and then a
+depressant. It can cause insomnia, nausea, gastric disorders, palpitations and nervous anxiety. Links have been suggested with cancer and
+benign lumps in the breast. There may be risks to foetuses during pregnancy and to breast-fed babies, if large quantities are consumed.
+
+:::
+
+## **STRESS**
+
+
+Stress is an unavoidable part of living and it&#39;s VITAL that you learn to minimize it&mdash;and to cope with it or reduce its harmful effects.
+Every life has its problems, but city life tends to magnify stress. Travelling to and from work in crowded public transport or driving in
+rush-hour conditions can be a considerable twice-daily strain. Fear of attack in the streets, dodging traffic, being buffeted by crowds&mdash;it
+all adds up.
+
+
+At work&mdash;and work problems rate very highly amongst causes of stress&mdash;pressures may be enormous. Some people live in constant fear of
+being sacked or made redundant. There may be delivery dates or deadlines to meet and aggressively competitive colleagues. Management may be
+difficult or unsympathetic. There may be sexual or racial harassment. You may have to deal with ill-tempered customers or clients. Strangely
+enough some people seem to &#39;thrive&#39; on such pressures, but for most of us it&#39;s quite impossible. Sometimes, if anything else happens
+to us in other areas of our lives, the pressure just gets too great to bear.
+
+
+Being unemployed can be just as stressful-it affects both public- and self-image and deprives you of MONEY&mdash;which is unfortunately vital for
+urban survival.
+
+
+Stress is really a blanket term for excessive emotional pressure. It can be provided by (or focused on) something quite minor&mdash;a dripping
+tap, a persistent smell, or constant background noise, such as that produced by air-conditioning.
+
+
+Poor living conditions are not only physically unhealthy, but depressing and stress-inducing. Fear of illness, attack or robbery can all prey on
+the mind. Research increasingly supports the contention that people are more susceptible to depression and stress at certain times of the year.
+When days are shorter and light levels lower, more people succumb to stress.
+
+
+Worries about sexual matters and relationships can be very destructive, but the most stressful events in most people&#39;s lives are those which
+create sudden changes. Death of a family member or a friend, divorce, redundancy, unemployment, moving house, starting a new job are all at the
+top of the list for causing stress. Even &#39;happy&#39; events such as a marriage or the birth of a child can cause great anxiety.
+
+
+Parents may worry&mdash;sometimes excessively&mdash;about their children. Often these worries don&#39;t subside when the children are grown into
+adults themselves!
+
+:::info[RESTORE THE BALANCE]
+
+
+Stress puts extra demands on the body, burning up nutrients to fuel your nervous energy. That is why people under stress tend to lose weight
+and anxiety produces a drawn and gaunt appearance. To help the body cope with the physical effects of stress, make sure it has the particular
+nutrients that are important for the nervous system and body functions.
+
+
+Calcium and zinc are burned up under stress and need replacement. Vitamin B1 is needed to control nerve conduction and reaction. Vitamin B2 is
+needed to control the breakdown of fats and carbohydrates in the liver to ensure wastes and toxins do not accumulate, making you more tired
+and sluggish. Vitamin B3 is needed to help control the amount of oxygen-carrying red cells in the blood. Since B vitamins are NOT stored in
+the body, because they are water-soluble, you need a constant supply.
+
+:::
+
+### Dealing with stress
+
+
+Recognizing the causes of stress in YOUR life is the first step. Make it a challenge to identify and sort out problems&mdash;don&#39;t let things
+pile on top of you. Stress really drags you down mentally and puts you at great risk physically.
+
+
+You need to find something better to do than worry. If you can sort out your day-to-day life to reduce stress, you can start to look ahead to
+possible problems and try to avert disasters before they happen. If you&#39;re overcome by your present problems, how will you cope if anything
+major goes wrong? You are starting from the wrong place!
+
+
+Overcoming stress requires great self-control. You need to be able to clear your thoughts and make both body and mind relax. This also helps
+create a calm and balanced attitude which will greatly reduce the impact of stress situations.
+
+:::info[CAN YOU REDUCE STRESS?]
+
+
+Are you ALWAYS rushing about? Do you NEED to place yourself under so much stress? Can you have the occasional quiet day or evening? Can you
+travel at a different time or use a different route or another form of transport? Is it really necessary to be so competitive? Is that
+difficult relationship worth the damage it causes? Take a look at your lifestyle, review it and assess what you want. Think about changing
+your job for something less demanding. Let life centre around something else!
+
+:::
+
+Different people have different ways of relieving tension. Tranquillizers, alcohol, smoking, drugs, eating and violence are NOT solutions. They
+are the traps people fall into. If you&#39;re lucky and have a creative hobby, the concentration involved can be very therapeutic. When a project
+is completed, you may feel genuinely proud of yourself. Anything which can build confidence and self-esteem is worthwhile.
+
+
+### Work out your problems
+
+
+Finding solutions to your problems is obviously the best way of removing stress. When that seems impossible you can free yourself for a while by
+concentrating on physical exertion to help the mind and body relax. Exercise is a great way of overcoming stress. After a good workout your
+problems don&#39;t seem so bad. The tension and anxiety go from your body and you see things in a different light.
+
+
+Repetitive exercises can be calming and the burning up of energy is like releasing a pressure valve to rid you of built-up tension. Don&#39;t get
+hooked on exercise, though, and make sure your diet compensates for the energy expended. Try to &#39;train&#39; with a friend&mdash;you can pace
+each other and it&#39;s a lot less boring than doing it on your own.
+
+
+### Relaxation
+
+
+Proper relaxation is not just putting your feet up and watching television&mdash;though that can have its role in taking your mind off worries.
+Learn to relax properly. There are numerous relaxation &#39;techniques&#39;&mdash;each person needs to find one that works for them. Try this:
+
+1. Put on some loose clothing and lie on your back on a bed or on the floor. Reach out with your toes and the top of your head, making yourself
+as &#39;tall&#39; as possible. Release and relax.
+2. Try to empty your mind. If you can&#39;t, focus on something peaceful and restful&mdash;the sea, the sky, a tree. If you can&#39;t keep your
+problems from popping into your head, mentally grab hold of something simple and familiar&mdash;an egg, a cup, a button. Don&#39;t let
+anything else into your mind. Imagine you are floating on air.
+3. When your mind is clear, begin to tense and release all the body&#39;s muscle groups in turn. Start with the toes, one foot at a time. Follow
+with the legs, buttocks, abdomen, back, chest, fingers, hands, arms and neck. Do one group at a time, relax that group and move on to the
+next. Finally tense the whole body then relax.
+
+Try a variation on this relaxation exercise. Imagine each part of your body is growing very heavy and sinking through the floor. You should soon
+feel the tension drain away. Investigate local relaxation classes or try yoga or meditation.
+
+
+### Learn to breathe!
+
+
+Controlled breathing is another way of combatting stress. When you are tense your breathing tends to be short and shallow. Slow it down and make
+it deeper. Pay attention to how you exhale. As you do, let your whole body relax.
+
+
+Stand with your hands on your hips, elbows slightly forward, shoulders slightly rounded. Now breathe in for a count of three, hold for three and
+exhale for three. Keep this going until you have full control and the rhythm becomes natural. Breathe in through the nose and out through the
+mouth.
+
+
+Use your lungs completely. Let your abdomen rise and fall&mdash;don&#39;t let your chest heave up and down. Try it lying down in a darkened room.
+Imagine the room is filled with pure clean white light&mdash;your body is filled with dark smoke. Each time you breathe in you take in the white
+light. Each time you exhale you release the dark smoke.
+
+
+:::tip[REMEMBER]
+
+
+Relaxation and meditation techniques can be learnt, but just being alone and calm from time to time may give your mind a chance to relax. At
+the very least, this sort of &#39;private&#39; time enables you to devote your thoughts to sorting out your problems.
+
+:::
+:::info[MASSAGE]
+
+
+Relieving physical tension is the first step to relieving mental stress. If you have a partner get them to massage your neck muscles, your
+shoulders and the top of your spine. Even better, go to a masseur and enjoy the luxury of a full massage. To release neck tension on your own
+move the head rapidly backwards a few times in a very gentle motion. Push it slightly further than it wants to go with a bouncing action. Now
+bounce it forwards and to each side&mdash;again, very gently. Let it roll relaxed to one side and roll it through a full 360 degrees, keeping
+it relaxed. There, did that help?
+
+:::
+
+### Counselling
+
+
+A problem shared is a problem halved. DON&#39;T let problems build up inside you. DON&#39;T hold grudges and brood about things. Hard though it
+may seem, it&#39;s better to &#39;bite the bullet&#39; and get the problem out into the open with the people concerned rather than bottle
+everything up to explosion point. Discuss worries with a close friend. If you don&#39;t feel you can share your problems with anyone you know,
+seek professional counselling and help-groups. It is often easier to get a new perspective on problems with people who don&#39;t know you.
+
+
+### Fear
+
+
+Fear is an element in most forms of mental stress&mdash;fear of the unknown and the known, fear of not being able to cope, fear of violence. It is
+not something to be ashamed of, but you must NOT let it build up out of proportion. Fear is a natural emotion and not necessarily harmful. When
+people are suddenly very afraid, they can run faster, jump higher and do things they never thought possible. This is due to the adrenalin the body
+produces in a stressful situation. It can make feats of superhuman strength achievable.
+
+
+Fear can even be an asset. It makes you wary and more alert on the streets, for instance. Don&#39;t try to eliminate it with false courage or deny
+its existence.
+
+
+Panic is fear that gets out of control. You MUST control panic&mdash;it can be disastrous. You must learn to use fear and anxiety&mdash;not let
+them use you. Don&#39;t let your imagination run riot and conjure things to be scared of. Assess the real situation and confront it.
+
+
+Learn to think and plan when you are afraid. One way is to enrol on a survival course and be put under pressure while being carefully monitored.
+You must get to know yourself.
+
+
+### The violent city
+
+
+For many people the greatest threat in city life is that of violence. Media reports suggest that muggings and other violent assaults have
+increased considerably in recent years. At the same time, people seem less and less prepared to go to the help of others. There is not much point
+in exposing yourself to serious physical risks if you can&#39;t really help. You can, however, at least call the police or an ambulance. Too many
+people don&#39;t even do that&mdash;they don&#39;t want to be &#39;involved&#39;.
+
+
+Avoid violence. Don&#39;t make yourself vulnerable&mdash;use your common sense&mdash;but don&#39;t shut yourself indoors. What is the point of
+being in a city if you cannot enjoy city life? Be sensible about where you go alone, especially at night. Know your city, avoid any areas known to
+be dangerous. Be aware of local problems and don&#39;t provoke violence by your behaviour. Wearing a football team&#39;s colours and shouting
+abuse about the other side&#39;s supporters is a sure way to get your nose flattened. Don&#39;t take short cuts through dark alleys.
+
+
+Sometimes attack comes out of the blue. That&#39;s when it is useful to have some knowledge of self-defence. Follow the basic advice given later
+<a href="./topicid-136">(see SELF-DEFENCE</a>) , but think about taking a proper course. You&#39;ll learn much better from an instructor than from
+any book&mdash;but don&#39;t expect an attacker to keep to the rules. You may need to let fly with everything you&#39;ve got. Learn how to use
+your natural weapons.
+
+
+### Terrorism and armed violence
+
+
+The use of terrorism for political ends has been a growing problem in recent years. We have to learn to live with it and to be vigilant. Whilst
+you cannot deal with bombs and suspect packages and vehicles personally, you can report any suspicions and let the experts sort them out. Be
+alert. Learn what the procedures are for hostile action against your workplace, whether by terrorists or armed robbers, so that you will be able
+to respond rapidly and calmly.
+
+
+### Catastrophes
+
+
+There are some situations that really are beyond our control, from train crashes to natural disasters. That does not mean that you cannot be
+prepared for them. Developing your own skills and reactions will help you to avoid accidents and enable you to assist others who are involved in
+them.
+
+
+If you live in places where earthquakes, floods or hurricanes could strike, you must learn to prepare for them, evacuate as necessary or deal with
+the aftermath. As with everything else in life, awareness, knowledge, confidence, training and experience will set you up to be a good survivor.
+
+
+### Being prepared
+
+
+You are what you think you are. You will achieve what you think you will&mdash;at least, you have little chance of achieving ANYTHING if you
+don&#39;t believe you can! Other people will have widely different opinions about you, but it is what YOU really think of yourself that matters.
+Confidence in yourself and self-knowledge must be backed up by what you have learned about your city and how to deal with situations.
+
+
+Of course, no two problems are identical. There is no advice that can cover EVERY situation. Develop the ability to take in and assess a situation
+quickly, then apply a calm and logical solution based on what you know and what you have learned. No one can hope to do better than that.
+
+
+:::info[SURVIVAL KIT FOR THE CITY]
+
+
+Equip yourself to deal with small day-to-day problems. If you know what your programme is for the day, you will carry what you need&mdash;but
+you should also carry an emergency kit to cope with some of those unforeseen occurrences. It need not take up much space&mdash;a small tin
+like a tobacco tin is ideal, but you shouldn&#39;t smoke the tobacco! Always carry your kit with you and it will see you through many a
+crisis. With it you can (at least):
+
+- Repair a tear
+- Sew on a button
+- Pin a broken zip
+- Remove a splinter from your finger
+- Read a telephone book/street map in poor light
+- Attract attention
+- Make notes
+- Leave a message
+- Get rid of a headache
+- Pay for a taxi-ride
+- Make an urgent phone call
+- Cover a cut or graze
+
+![](/images/img016_001.jpg)
+
+Start with this as the standard kit and personalize it to suit YOUR needs and YOUR lifestyle. Cyclists and motorists could have their own
+versions. You may need a tiny screwdriver (especially if you wear glasses), antihistamine tablets (if you get hay fever), other medicines,
+tampons, condoms, a spare pair of contact lenses or eye drops, matches, breath fresheners, something to tie long hair back&mdash;you name it!
+
+Keep the kit you carry small and easy to slip into a pocket or your handbag. If it becomes too bulky or inconvenient to carry, you will leave
+it at home on just the day you need it! It is like wearing a seat belt in a car. You wear it every time you drive&mdash;but the day you forget
+it is the day you have an accident! It is the same with your emergency kit. Carry it ALL THE TIME.
+
+:::
