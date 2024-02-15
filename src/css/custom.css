@@ -70,4 +70,5 @@ article {
 div[class^='announcementBar'] {
   background-color: var(--announcement-bar-bg-color);
   color: var(--ifm-font-color-base);
+  z-index: 3;
 }
