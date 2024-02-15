@@ -6,6 +6,8 @@ tags:
 - hearing
 ---
 
+![ ](/images/audiogram_hero_image.webp)
+
 Hearing loss occurs for a variety of reasons, and you may have better hearing in one ear than the other. Changes to your ears as you age, long-term exposure to loud sounds, or illness can all affect your hearing.
 
 Aging is one of the primary causes for hearing loss. Generally, you can hear more when you’re younger and less as you get older. A quarter of people over 50 and half of people over 80 experience hearing loss. This typically occurs as your ear changes over time and is most often due to the loss of the hair cells in the inner ear that sense sound. Hearing loss can also be genetic or even caused by certain diseases such as meningitis, mumps, and chickenpox.
