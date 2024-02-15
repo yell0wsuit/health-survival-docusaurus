@@ -50,7 +50,7 @@ const config = {
     ],
   ],
 
-  plugins: [require.resolve('docusaurus-lunr-search')],
+  plugins: [require.resolve('docusaurus-lunr-search'), require.resolve('docusaurus-plugin-image-zoom')],
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
@@ -134,6 +134,16 @@ const config = {
         disableSwitch: false,
         respectPrefersColorScheme: true,
       },
+      zoom: {
+        selector: 'img',
+        background: {
+          light: 'rgb(255, 255, 255)',
+          dark: 'rgb(50, 50, 50)'
+        },
+        config: {
+          // options you can specify via https://github.com/francoischalifour/medium-zoom#usage
+        }
+      }
     }),
 };
 
