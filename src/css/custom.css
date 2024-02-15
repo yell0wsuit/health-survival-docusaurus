@@ -15,9 +15,9 @@
   --ifm-color-primary-lightest: #3d94c6;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
-  --ifm-heading-font-family: Inter, system-ui;
-  --ifm-font-family-base: Inter, system-ui;
+  --ifm-font-family-base: Intervar, system-ui;
   --ifm-link-decoration: underline;
+  --yllst-optical-size: 15;
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
@@ -33,22 +33,22 @@
 }
 
 @font-face {
-  font-family: 'Inter';
+  font-family: 'Intervar';
   src: url('/fonts/InterVariable.woff2');
   font-style: normal;
-  font-optical-sizing: 15;
   font-weight: 300 900;
 }
 
 @font-face {
-  font-family: 'Inter';
+  font-family: 'Intervar';
   src: url('/fonts/InterVariable-Italic.woff2');
   font-style: italic;
   font-weight: 300 900;
-  font-optical-sizing: 15;
 }
 
-
+html {
+  font-variation-settings: 'opsz' var(--yllst-optical-size);
+}
 
 article {
   max-width: 720px;
