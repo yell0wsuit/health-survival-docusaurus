@@ -50,6 +50,8 @@ const config = {
     ],
   ],
 
+  plugins: [require.resolve('docusaurus-lunr-search')],
+
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -69,6 +71,12 @@ const config = {
             label: 'Health & Survival [BETA]',
           }
         ],
+      },
+      announcementBar: {
+        id: 'beta_wip',
+        content:
+          'Beta: more contents will be added soon.',
+        isCloseable: false,
       },
       footer: {
         links: [
