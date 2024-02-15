@@ -2,7 +2,7 @@
     "position": 1,
     "label": "SAS Survival Guide",
     "collapsible": true,
-    "collapsed": false,
+    "collapsed": true,
     "link": {
       "type": "generated-index",
       "title": "SAS Survival Guide"
