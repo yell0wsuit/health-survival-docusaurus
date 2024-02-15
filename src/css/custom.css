@@ -36,13 +36,19 @@
   font-family: 'Inter';
   src: url('/fonts/InterVariable.woff2');
   font-style: normal;
+  font-variation-settings: 'wght' 300 900;
+  font-variation-settings: 'opsz' 21;
 }
 
 @font-face {
   font-family: 'Inter';
   src: url('/fonts/InterVariable-Italic.woff2');
   font-style: italic;
+  font-variation-settings: 'wght' 300 900;
+  font-variation-settings: 'opsz' 21;
 }
+
+
 
 article {
   max-width: 720px;
