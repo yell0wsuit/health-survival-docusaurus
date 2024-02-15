@@ -1,0 +1,13 @@
+{
+    "position": 3,
+    "label": "Apple Health articles",
+    "collapsible": true,
+    "collapsed": true,
+    "link": {
+      "type": "generated-index",
+      "title": "Apple Health articles"
+    },
+    "customProps": {
+      "description": "SAS Survial Guide is a survival guide by British author and professional soldier, John Wiseman, first published by Williams Collins in 1986. John 'Lofty' Wiseman served in the British Special Air Service (SAS) for twenty-six years. The SAS Survival Handbook is based on the training techniques of this world-famous elite fighting force."
+    }
+  }
