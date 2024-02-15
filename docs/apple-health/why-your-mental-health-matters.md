@@ -1,12 +1,14 @@
 ---
-title: Why Your Mental Health Matters
-description: Your mental health is essential to how you think, feel, and act.
+title: Learning About Mental Health
+description: Understand what contributes to your mental health and why it matters.
 tags:
 - apple-health
 - mental-health
 ---
 
-![ ](/images/Understanding_Mental_Health_Article_Illustration.jpg)
+![ ](/images/Mental_Health_101_Article_Illustration.jpg)
+
+## Why Your Mental Health Matters
 
 Your mental health is essential to how you think, feel, and act. It can impact everything from how you relate to other people to your self-esteem and even how well your immune system works. When thinking about how to live a long, healthy life, many people focus on their fitness or physical health. It is just as important to give your mental health the same care and consideration.
 
@@ -26,17 +28,18 @@ Paying attention to the differences between your emotions and moods can give you
 
 ## What Contributes to Your Mental Health?
 
+Your mental health is the result of a number of factors including your life experiences, physical environment, family history, and biology. These factors can contribute positively or negatively to your mental health. Experiences such as neglect or trauma, can place an individual at a greater risk for developing a mental health condition.
+
+A mental health condition impacts an individual’s behaviors, thoughts, and moods. Some of the most common conditions include anxiety and depression. If left untreated, mental health conditions can interfere with your quality of life. That’s why it’s a good idea to mention any concerns you might have about your mental health with your doctor or care team.
+
+While there are some factors you may not have control over, there are things you can do to support your mental health.
+
 - Spend time outdoors in nature.
 - Do something physically active.
 - Maintain a consistent sleep schedule.
 - Eat regularly and stay hydrated.
 - Stay socially connected to others.
 
-Your mental health is the result of a number of factors including your life experiences, physical environment, family history, and biology. These factors can contribute positively or negatively to your mental health. Experiences such as neglect or trauma, can place an individual at a greater risk for developing a mental health condition.
-
-A mental health condition impacts an individual’s behaviors, thoughts, and moods. Some of the most common conditions include anxiety and depression. If left untreated, mental health conditions can interfere with your quality of life. That’s why it’s a good idea to mention any concerns you might have about your mental health with your doctor or care team.
-
-While there are some factors you may not have control over, there are things you can do to support your mental health.
 ## Why You Should Pay Attention to Your Mental Health
 
 In the same way it’s a good idea to exercise regularly, paying attention to your emotions and moods can help you care for your mental health. You can do this by logging your state of mind and doing daily reflections. These techniques can help you gain a better understanding of changes to your emotions and moods over time.
@@ -47,10 +50,18 @@ Resilience and emotional regulation are two skills that can come from daily refl
 
 ## How to Talk About Mental Health
 
+
+Conversations about mental health can be hard. Especially if you’re bringing up your own concerns. There are many reasons for why mental health has become a stigmatized topic. One way to combat stigma and support your mental wellbeing is through open and honest conversations.
+
+There is no right way to talk about mental health. If you want to start a conversation about mental health but aren’t sure how, here are some tips:
+
 - Talk to someone you are comfortable with and trust.
 - Write down your feelings and what you want to discuss.
 - Be honest about how you are feeling.
 - Let people know how they can support you. You may want them to listen, give feedback, or help you do research.
+
+If you want to talk directly to your doctor, here’s a list of things to pay attention to and mention:
+
 - Significant and persistent changes to your thoughts, behaviors, or moods.
 - A loss of interest or pleasure in doing activities you once enjoyed.
 - Feelings of guilt, hopelessness, worry, or worthlessness.
@@ -58,11 +69,5 @@ Resilience and emotional regulation are two skills that can come from daily refl
 - Changes in your lifestyle, such as eating too much or too little or sleeping too much or not enough.
 - Increased use or reliance on substances, such as alcohol or drugs.
 - Body aches, pain, or digestive issues with no clear cause.
-
-Conversations about mental health can be hard. Especially if you’re bringing up your own concerns. There are many reasons for why mental health has become a stigmatized topic. One way to combat stigma and support your mental wellbeing is through open and honest conversations.
-
-There is no right way to talk about mental health. If you want to start a conversation about mental health but aren’t sure how, here are some tips:
-
-If you want to talk directly to your doctor, here’s a list of things to pay attention to and mention:
 
 It’s a good idea to mention any symptoms related to your health that are concerning to you. Your care team can help answer questions, direct you to additional resources, or provide you with next steps.
