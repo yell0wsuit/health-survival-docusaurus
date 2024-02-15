@@ -8,28 +8,36 @@ const LayoutWrapper = (props) => {
   const history = useHistory();
 
   React.useEffect(() => {
-    NProgress.configure({ showSpinner: false });
-
+    NProgress.configure({ showSpinner: true });
+  
     // Start NProgress before a route change
     const startNProgress = () => NProgress.start();
-
+  
     // Stop NProgress after a route change
     const stopNProgress = () => NProgress.done();
-
+  
     // Listen for route changes
     history.listen(() => {
       startNProgress();
-      //setTimeout(stopNProgress, 500); // Add a slight delay to ensure transition completion
+      // Consider removing the timeout here and relying on the subsequent page's load event
+      // or another signal from Docusaurus when the page is fully rendered
     });
-
+  
     // Start NProgress on initial load
-    //startNProgress();
-    //setTimeout(stopNProgress, 500);
-
+    startNProgress();
+    stopNProgress();
+  
+    // Attach to window load event for the initial load
+    const handleLoad = () => {
+      stopNProgress();
+    };
+    window.addEventListener('load', handleLoad);
+  
     return () => {
+      window.removeEventListener('load', handleLoad);
       NProgress.remove();
     };
-  }, [history]);
+  }, [history]);  
 
   return <OriginalLayout {...props} />;
 };
