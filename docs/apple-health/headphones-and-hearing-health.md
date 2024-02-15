@@ -51,6 +51,6 @@ Permanent damage usually occurs when your ears don’t have a chance to recover 
 <small>*Exposure limits derived from World Health Organization recommendations.*</small>
 
 ## What You Can Do
-The best way to protect your hearing is to limit how long and how often you listen at a loud level. You can see your listening habits in Headphone Audio Levels. You can also set a volume limit in Settings to reduce your exposure to loud sound levels.
+The best way to protect your hearing is to limit how long and how often you listen at a loud level. You can see your listening habits in apps that track headphone audio levels on your device. You can also set a volume limit in the device settings to reduce your exposure to loud sound levels.
 
 You can also receive notifications when you’ve gone over different thresholds for safe listening.
