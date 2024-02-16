@@ -19,7 +19,7 @@ Good habits during your day can help promote better sleep.
 
 <div class="row">
     <div class="col col--2">
-      ![](/images/During_Day_Sunlight.png)
+      <img src="/images/During_Day_Sunlight.svg" alt="Sunlight" width="150"/>
     </div>
     <div class="col col--10">
       <div class="v-center">
@@ -27,7 +27,7 @@ Good habits during your day can help promote better sleep.
       </div>
     </div>
     <div class="col col--2">
-      ![](/images/During_Day_Nicotine&Caffeine.png)
+      <img src="/images/During_Day_Nicotine&Caffeine.svg" alt="Nicotine & caffeine" width="150"/>
     </div>
     <div class="col col--10">
       <div class="v-center">
@@ -35,7 +35,7 @@ Good habits during your day can help promote better sleep.
       </div>
     </div>
     <div class="col col--2">
-      ![](/images/During_Day_medication.png)
+      <img src="/images/During_Day_medication.svg" alt="Medication" width="150"/>
     </div>
     <div class="col col--10">
       <div class="v-center">
@@ -43,7 +43,7 @@ Good habits during your day can help promote better sleep.
       </div>
     </div>
     <div class="col col--2">
-      ![](/images/During_Day_Nap.png)
+      <img src="/images/During_Day_Nap.svg" alt="Nap" width="150"/>
     </div>
     <div class="col col--10">
       <div class="v-center">
@@ -51,7 +51,7 @@ Good habits during your day can help promote better sleep.
       </div>
     </div>
     <div class="col col--2">
-      ![](/images/During_Day_Workouts.png)
+      <img src="/images/During_Day_Workouts.svg" alt="Workouts" width="150"/>
     </div>
     <div class="col col--10">
       <div class="v-center">
@@ -59,7 +59,7 @@ Good habits during your day can help promote better sleep.
       </div>
     </div>
     <div class="col col--2">
-      ![](/images/During_Day_LargeMeals.png)
+      <img src="/images/During_Day_LargeMeals.svg" alt="Large meals" width="150"/>
     </div>
     <div class="col col--10">
       <div class="v-center">
@@ -74,7 +74,7 @@ Taking time to relax before crawling into bed can make getting to sleep easier.
 
 <div class="row">
     <div class="col col--2">
-      ![](/images/WindingDown_Alcohol.png)
+      <img src="/images/WindingDown_Alcohol.svg" alt="Alcohol" width="150"/>
     </div>
     <div class="col col--10">
       <div class="v-center">
@@ -82,7 +82,7 @@ Taking time to relax before crawling into bed can make getting to sleep easier.
       </div>
     </div>
     <div class="col col--2">
-      ![](/images/WindingDown_DimLights.png)
+      <img src="/images/WindingDown_DimLights.svg" alt="Dim lights" width="150"/>
     </div>
     <div class="col col--10">
       <div class="v-center">
@@ -90,7 +90,7 @@ Taking time to relax before crawling into bed can make getting to sleep easier.
       </div>
     </div>
     <div class="col col--2">
-      ![](/images/WindingDown_Relax.png)
+      <img src="/images/WindingDown_Relax.svg" alt="Relax" width="150"/>
     </div>
     <div class="col col--10">
       <div class="v-center">
@@ -98,7 +98,7 @@ Taking time to relax before crawling into bed can make getting to sleep easier.
       </div>
     </div>
     <div class="col col--2">
-      ![](/images/WindingDown_HotBath.png)
+      <img src="/images/WindingDown_HotBath.svg" alt="Hot bath" width="150"/>
     </div>
     <div class="col col--10">
       <div class="v-center">
