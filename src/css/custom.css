@@ -72,3 +72,9 @@ div[class^='announcementBar'] {
   color: var(--ifm-font-color-base);
   z-index: 3;
 }
+
+.v-center {
+  display: flex;
+  align-items: center;
+  height: 100%;
+}
