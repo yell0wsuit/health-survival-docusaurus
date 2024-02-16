@@ -44,13 +44,20 @@ const config = {
           sidebarPath: './sidebars.js',
         },
         theme: {
-          customCss: './src/css/custom.css',
+          customCss: ['./src/css/custom.css', './src/css/custom.scss'],
         },
       }),
     ],
   ],
 
-  plugins: [require.resolve('docusaurus-lunr-search'), require.resolve('docusaurus-plugin-image-zoom')],
+  plugins: [require.resolve('docusaurus-lunr-search'), require.resolve('docusaurus-plugin-image-zoom'), 'docusaurus-plugin-sass'],
+  scripts: [
+    {
+      src: '/scripts/customThemeSwitch.js',
+      async: true,
+      defer: true
+    },
+  ],
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
@@ -130,9 +137,8 @@ const config = {
         darkTheme: prismThemes.dracula,
       },
       colorMode: {
-        defaultMode: 'light',
-        disableSwitch: false,
-        respectPrefersColorScheme: true,
+        disableSwitch: true,
+        respectPrefersColorScheme: false,
       },
       zoom: {
         selector: '.markdown img',
