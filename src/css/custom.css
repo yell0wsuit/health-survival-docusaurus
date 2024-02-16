@@ -4,6 +4,8 @@
  * work well for content-centric websites.
  */
 
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
+
 /* You can override the default Infima variables here. */
 :root {
   --ifm-color-primary: #2d729a;
@@ -71,10 +73,4 @@ div[class^='announcementBar'] {
   background-color: var(--announcement-bar-bg-color);
   color: var(--ifm-font-color-base);
   z-index: 3;
-}
-
-.v-center {
-  display: flex;
-  align-items: center;
-  height: 100%;
 }
