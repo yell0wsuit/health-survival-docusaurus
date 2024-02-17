@@ -18,37 +18,37 @@ Good habits during your day can help promote better sleep.
 ![](/images/apphth-skyinline.jpg)
 
 <div class="row">
-    <div class="col-2 d-flex align-items-center">
+    <div class="col-2">
         <img src="/images/During_Day_Sunlight.svg" alt="Nicotine & caffeine" width="150" />
     </div>
     <div class="col-10 d-flex align-items-center">
         <p>Get regular exposure to sunlight. Try for at least 30 minutes a day, preferably in the morning.</p>
     </div>
-    <div class="col-2 d-flex align-items-center">
+    <div class="col-2">
         <img src="/images/During_Day_Nicotine&Caffeine.svg" alt="Nicotine & caffeine" width="150" />
     </div>
     <div class="col-10 d-flex align-items-center">
         <p>Avoid nicotine and caffeine. Both are stimulants that can keep you up.</p>
     </div>
-    <div class="col-2 d-flex align-items-center">
+    <div class="col-2">
         <img src="/images/During_Day_medication.svg" alt="Medication" width="150" />
     </div>
     <div class="col-10 d-flex align-items-center">
         <p>If you’re taking regular medication, check with your doctor about its effects.</p>
     </div>
-    <div class="col-2 d-flex align-items-center">
+    <div class="col-2">
         <img src="/images/During_Day_Nap.svg" alt="Nap" width="150" />
     </div>
     <div class="col-10 d-flex align-items-center">
         <p>If you nap, try to avoid taking one within six hours of your bedtime.</p>
     </div>
-    <div class="col-2 d-flex align-items-center">
+    <div class="col-2">
         <img src="/images/During_Day_Workouts.svg" alt="Workouts" width="150" />
     </div>
     <div class="col-10 d-flex align-items-center">
         <p>Try to get your workouts in at least two to three hours before bed.</p>
     </div>
-    <div class="col-2 d-flex align-items-center">
+    <div class="col-2">
         <img src="/images/During_Day_LargeMeals.svg" alt="Large meals" width="150" />
     </div>
     <div class="col-10 d-flex align-items-center">
@@ -61,26 +61,26 @@ Good habits during your day can help promote better sleep.
 Taking time to relax before crawling into bed can make getting to sleep easier.
 
 <div class="row">
-    <div class="col-2 d-flex align-items-center">
-        <img src="/images/WindingDown_Alcohol.svg" alt="Alcohol" />
+    <div class="col-2">
+        <img src="/images/WindingDown_Alcohol.svg" alt="Alcohol" width="150" />
     </div>
     <div class="col-10 d-flex align-items-center">
         <p>Alcohol can decrease the quality of your sleep.</p>
     </div>
-    <div class="col-2 d-flex align-items-center">
-        <img src="/images/WindingDown_DimLights.svg" alt="Dim lights" />
+    <div class="col-2">
+        <img src="/images/WindingDown_DimLights.svg" alt="Dim lights" width="150" />
     </div>
     <div class="col-10 d-flex align-items-center">
         <p>Dim the lights in the evening. It will help your body know it’s time for sleep.</p>
     </div>
-    <div class="col-2 d-flex align-items-center">
-        <img src="/images/WindingDown_Relax.svg" alt="Relax" />
+    <div class="col-2">
+        <img src="/images/WindingDown_Relax.svg" alt="Relax" width="150" />
     </div>
     <div class="col-10 d-flex align-items-center">
         <p>Relax before getting in bed. Make reading a book, listening to music, or journaling a ritual.</p>
     </div>
-    <div class="col-2 d-flex align-items-center">
-        <img src="/images/WindingDown_HotBath.svg" alt="Hot bath" />
+    <div class="col-2">
+        <img src="/images/WindingDown_HotBath.svg" alt="Hot bath" width="150" />
     </div>
     <div class="col-10 d-flex align-items-center">
         <p>A hot bath can help you wind down.</p>
