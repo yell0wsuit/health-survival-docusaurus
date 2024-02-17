@@ -24,6 +24,21 @@
 @import "../../node_modules/bootstrap/scss/helpers";
 @import "../../node_modules/bootstrap/scss/dropdown";
 @import "../../node_modules/bootstrap/scss/buttons";
+@import "../../node_modules/bootstrap/scss/modal";
+@import "../../node_modules/bootstrap/scss/close";
+
+button,
+[type="button"], // 1
+[type="reset"],
+[type="submit"] {
+  -webkit-appearance: button; // 2
+
+  @if $enable-button-pointers {
+    &:not(:disabled) {
+      cursor: pointer; // 3
+    }
+  }
+}
 
 // 7. Optionally include utilities API last to generate classes based on the Sass map in `_utilities.scss`
 @import "../../node_modules/bootstrap/scss/utilities/api";

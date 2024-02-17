@@ -1,8 +1,10 @@
 import React from 'react';
 import OriginalLayout from '@theme-original/Layout';
 import NProgress from 'nprogress';
-import 'nprogress/nprogress.css'; // Don't forget to import the CSS
+import 'nprogress/nprogress.css';
 import { useHistory } from 'react-router-dom';
+
+import ImageZoom from '../../components/ImageZoom';
 
 const LayoutWrapper = (props) => {
   const history = useHistory();
@@ -39,7 +41,12 @@ const LayoutWrapper = (props) => {
     };
   }, [history]);  
 
-  return <OriginalLayout {...props} />;
+  return (
+    <>
+      <OriginalLayout {...props} />
+      <ImageZoom />
+    </>
+  );
 };
 
 export default LayoutWrapper;
