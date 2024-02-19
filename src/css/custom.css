@@ -54,6 +54,11 @@ html {
   font-variation-settings: 'opsz' var(--yllst-optical-size);
 }
 
+* {
+  font-family: var(--ifm-font-family-base);
+  font-variation-settings: 'opsz' var(--yllst-optical-size);
+}
+
 article {
   max-width: 820px;
   margin-left: auto;
