@@ -78,3 +78,7 @@ div[class^='announcementBar'] {
 label {
   display: inline-block;
 }
+
+.close {
+  color: var(--ifm-color-content);
+}

@@ -10,8 +10,8 @@ pagination_next: null
 <figure class="figure">
 <img src="/images/cherise-evertz-KdOAFDzB_Mg-unsplash.jpg" class="figure-img img-fluid" alt="Compass" />
 <figcaption class="figure-caption text-center">
-Photo by <a href="https://unsplash.com/@cherise_raphy_co">Cherise Evertz</a>
-on <a href="https://unsplash.com/photos/compass-KdOAFDzB_Mg">Unsplash</a>
+Photo by <a href="https://unsplash.com/@cherise_raphy_co">Cherise Evertz<i class="bi bi-box-arrow-up-right ms-1"></i></a>
+on <a href="https://unsplash.com/photos/compass-KdOAFDzB_Mg">Unsplash<i class="bi bi-box-arrow-up-right ms-1"></i></a>
 </figcaption>
 </figure>
 
@@ -24,8 +24,8 @@ I started this project two years ago in private because I wanted it to be in a c
 I first used WordPress, but now I found it unnecessary complex (HTML and stuff). For Obsidian Publish, it costs $8/month, so I looked into Jacky Zhao's Quartz instead. But then later on, I didn't find it satisfying. Finally, I decided to use [Docusaurus<i class="bi bi-box-arrow-up-right ms-1"></i>](https://docusaurus.io/), which is a simple and elegant solution for creating this page. I like how it looks and how easy it is to use.
 
 In this site, I have collections of health and survival tips from many sources. Here are some of them:
-- SAS Survival Guide handbook
-- SAS Urban Survival Guide handbook
+- SAS Survival Guide
+- SAS Urban Survival Guide
 - Apple Health articles
 - _(more sources will be added)_
 

@@ -46,6 +46,10 @@ const config = {
                 theme: {
                     customCss: ["./src/css/custom.css", "./src/css/custom.scss"],
                 },
+                gtag: {
+                    trackingID: "G-SX3SJWCLEY",
+                    anonymizeIP: true,
+                },
             }),
         ],
     ],
@@ -82,7 +86,7 @@ const config = {
             announcementBar: {
                 id: "beta_wip",
                 content: "Working to add more contents. Stay tuned!",
-                isCloseable: false,
+                isCloseable: true,
             },
             footer: {
                 links: [
@@ -138,8 +142,8 @@ const config = {
             colorMode: {
                 disableSwitch: true,
                 respectPrefersColorScheme: false,
-            }
-        })
+            },
+        }),
 };
 
 export default config;
