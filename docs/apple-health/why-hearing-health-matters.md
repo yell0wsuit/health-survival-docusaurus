@@ -24,33 +24,143 @@ As sounds get louder, the time you should be exposed to them drops significantly
 
 ## Example Sound Levels
 
-- Whisper: 30–39 dB
+<div class="d-flex">
+  <div class="py-2">**Whisper**</div>
+  <div class="ms-auto py-2">30–39 dB</div>
+</div>
+<div class="progress rounded-2" role="progressbar" aria-label="Basic example" aria-valuemin="0" aria-valuemax="100" style={{height: "10px"}}>
+  <div class="progress-bar rounded-2 bg-success" style={{width: "10%"}}></div>
+</div>
 
-- Library: 40–49 dB
+<div class="d-flex">
+  <div class="py-2">**Library**</div>
+  <div class="ms-auto py-2">40–49 dB</div>
+</div>
+<div class="progress-stacked" style={{height: "10px"}}>
+  <div class="progress rounded-2" role="progressbar" aria-valuemin="0" aria-valuemax="100" style={{width: "10%", height: "10px"}}>
+    <div class="progress-bar" style={{backgroundColor: "var(--bs-progress-bg)"}}></div>
+  </div>
+  <div class="progress" role="progressbar" aria-valuemin="0" aria-valuemax="100" style={{width: "10%", height: "10px"}}>
+    <div class="progress-bar bg-success rounded-2"></div>
+  </div>
+</div>
 
-- Moderate Rainfall: 50–59 dB
+<div class="d-flex">
+  <div class="py-2">**Moderate Rainfall**</div>
+  <div class="ms-auto py-2">50–59 dB</div>
+</div>
+<div class="progress-stacked" style={{height: "10px"}}>
+  <div class="progress rounded-2" role="progressbar" aria-valuemin="0" aria-valuemax="100" style={{width: "20%", height: "10px"}}>
+    <div class="progress-bar" style={{backgroundColor: "var(--bs-progress-bg)"}}></div>
+  </div>
+  <div class="progress" role="progressbar" aria-valuemin="0" aria-valuemax="100" style={{width: "10%", height: "10px"}}>
+    <div class="progress-bar bg-success rounded-2"></div>
+  </div>
+</div>
 
-- Conversation: 60–69 dB
+<div class="d-flex">
+  <div class="py-2">**Conversation**</div>
+  <div class="ms-auto py-2">60–69 dB</div>
+</div>
+<div class="progress-stacked" style={{height: "10px"}}>
+  <div class="progress rounded-2" role="progressbar" aria-valuemin="0" aria-valuemax="100" style={{width: "30%", height: "10px"}}>
+    <div class="progress-bar" style={{backgroundColor: "var(--bs-progress-bg)"}}></div>
+  </div>
+  <div class="progress" role="progressbar" aria-valuemin="0" aria-valuemax="100" style={{width: "10%", height: "10px"}}>
+    <div class="progress-bar bg-success rounded-2"></div>
+  </div>
+</div>
 
-- Vacuum Cleaner: 70–79 dB  
-75 dB exposure limit: 127 hours / 7 days
+<div class="d-flex">
+  <div class="py-2">**Vacuum Cleaner**</div>
+  <div class="ms-auto py-2">70–79 dB</div>
+</div>
+<div class="progress-stacked" style={{height: "10px"}}>
+  <div class="progress rounded-2" role="progressbar" aria-valuemin="0" aria-valuemax="100" style={{width: "40%", height: "10px"}}>
+    <div class="progress-bar" style={{backgroundColor: "var(--bs-progress-bg)"}}></div>
+  </div>
+  <div class="progress" role="progressbar" aria-valuemin="0" aria-valuemax="100" style={{width: "10%", height: "10px"}}>
+    <div class="progress-bar bg-warning rounded-2"></div>
+  </div>
+</div>
+<small>75 dB exposure limit: 127 hours / 7 days</small>
 
-- Noisy Restaurant: 80–89 dB  
-80 dB exposure limit: 40 hours / 7 days
+<div class="d-flex">
+  <div class="py-2">**Noisy Restaurant**</div>
+  <div class="ms-auto py-2">80–89 dB</div>
+</div>
+<div class="progress-stacked" style={{height: "10px"}}>
+  <div class="progress rounded-2" role="progressbar" aria-valuemin="0" aria-valuemax="100" style={{width: "50%", height: "10px"}}>
+    <div class="progress-bar" style={{backgroundColor: "var(--bs-progress-bg)"}}></div>
+  </div>
+  <div class="progress" role="progressbar" aria-valuemin="0" aria-valuemax="100" style={{width: "10%", height: "10px"}}>
+    <div class="progress-bar bg-warning rounded-2"></div>
+  </div>
+</div>
+<small>80 dB exposure limit: 40 hours / 7 days</small>
 
-- Motorcycle: 90–99 dB  
-90 dB exposure limit: 4 hours / 7 days
+<div class="d-flex">
+  <div class="py-2">**Motorcycle**</div>
+  <div class="ms-auto py-2">90–99 dB</div>
+</div>
+<div class="progress-stacked" style={{height: "10px"}}>
+  <div class="progress rounded-2" role="progressbar" aria-valuemin="0" aria-valuemax="100" style={{width: "60%", height: "10px"}}>
+    <div class="progress-bar" style={{backgroundColor: "var(--bs-progress-bg)"}}></div>
+  </div>
+  <div class="progress" role="progressbar" aria-valuemin="0" aria-valuemax="100" style={{width: "10%", height: "10px"}}>
+    <div class="progress-bar bg-warning rounded-2"></div>
+  </div>
+</div>
+<small>90 dB exposure limit: 4 hours / 7 days</small>
 
-- Ambulance Siren: 100–109 dB  
-100 dB exposure limit: 24 minutes / 7 days
+<div class="d-flex">
+  <div class="py-2">**Ambulance Siren**</div>
+  <div class="ms-auto py-2">100–109 dB</div>
+</div>
+<div class="progress-stacked" style={{height: "10px"}}>
+  <div class="progress rounded-2" role="progressbar" aria-valuemin="0" aria-valuemax="100" style={{width: "70%", height: "10px"}}>
+    <div class="progress-bar" style={{backgroundColor: "var(--bs-progress-bg)"}}></div>
+  </div>
+  <div class="progress" role="progressbar" aria-valuemin="0" aria-valuemax="100" style={{width: "10%", height: "10px"}}>
+    <div class="progress-bar bg-danger rounded-2"></div>
+  </div>
+</div>
+<small>100 dB exposure limit: 24 minutes / 7 days</small>
 
-- Rock Concert: 110–119 dB  
-110 dB exposure limit: 4 minutes / 7 days
+<div class="d-flex">
+  <div class="py-2">**Rock Concert**</div>
+  <div class="ms-auto py-2">110–119 dB</div>
+</div>
+<div class="progress-stacked" style={{height: "10px"}}>
+  <div class="progress rounded-2" role="progressbar" aria-valuemin="0" aria-valuemax="100" style={{width: "80%", height: "10px"}}>
+    <div class="progress-bar" style={{backgroundColor: "var(--bs-progress-bg)"}}></div>
+  </div>
+  <div class="progress" role="progressbar" aria-valuemin="0" aria-valuemax="100" style={{width: "10%", height: "10px"}}>
+    <div class="progress-bar bg-danger rounded-2"></div>
+  </div>
+</div>
+<small>110 dB exposure limit: 4 minutes / 7 days</small>
 
-- Thunder Clap: 120–130 dB  
+
+<div class="d-flex">
+  <div class="py-2">**Thunder Clap**</div>
+  <div class="ms-auto py-2">120–130 dB</div>
+</div>
+<div class="progress-stacked" style={{height: "10px"}}>
+  <div class="progress rounded-2" role="progressbar" aria-valuemin="0" aria-valuemax="100" style={{width: "90%", height: "10px"}}>
+    <div class="progress-bar" style={{backgroundColor: "var(--bs-progress-bg)"}}></div>
+  </div>
+  <div class="progress" role="progressbar" aria-valuemin="0" aria-valuemax="100" style={{width: "10%", height: "10px"}}>
+    <div class="progress-bar bg-danger rounded-2"></div>
+  </div>
+</div>
+<small>
 120 dB exposure limit: 1 minute / 7 days
+</small>
 
-<small>*Exposure limits derived from World Health Organization recommendations.*</small>
+<small>
+*Exposure limits derived from World Health Organization recommendations.*
+</small>
 
 ## How You Can Protect Your Hearing
 There are easy ways to protect your hearing if you know you’re going to be exposed to loud sound levels. Ear plugs, noise canceling headphones, or simply moving to a quieter area are all effective ways of preserving your hearing and reducing your exposure. Making sure you give your ears a break after extended exposure to loud sounds can also be helpful.

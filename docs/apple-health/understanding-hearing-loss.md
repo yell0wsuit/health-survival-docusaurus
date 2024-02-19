@@ -22,10 +22,64 @@ Hearing loss can be hard to detect on your own because it often happens graduall
 
 ## Levels of Hearing Loss
 
-- No Impairment: 0–25 dBHL
-- Mild Impairment: 26–40 dBHL
-- Moderate Impairment: 41–60 dBHL
-- Severe Impairment: 61–80 dBHL
-- Profound Impairment: Above 80 dBHL
+<div class="d-flex">
+  <div class="py-2">**No Impairment**</div>
+  <div class="ms-auto py-2">0–25 dBHL</div>
+</div>
+<div class="progress rounded-2" role="progressbar" aria-label="Basic example" aria-valuemin="0" aria-valuemax="100" style={{height: "10px"}}>
+  <div class="progress-bar rounded-2 bg-success" style={{width: "25%"}}></div>
+</div>
+
+<div class="d-flex">
+  <div class="py-2">**Mild Impairment**</div>
+  <div class="ms-auto py-2">26–40 dBHL</div>
+</div>
+<div class="progress-stacked" style={{height: "10px"}}>
+  <div class="progress rounded-2" role="progressbar" aria-valuemin="0" aria-valuemax="100" style={{width: "25%", height: "10px"}}>
+    <div class="progress-bar" style={{backgroundColor: "var(--bs-progress-bg)"}}></div>
+  </div>
+  <div class="progress" role="progressbar" aria-valuemin="0" aria-valuemax="100" style={{width: "15%", height: "10px"}}>
+    <div class="progress-bar bg-warning rounded-2"></div>
+  </div>
+</div>
+
+<div class="d-flex">
+  <div class="py-2">**Moderate Impairment**</div>
+  <div class="ms-auto py-2">41–60 dBHL</div>
+</div>
+<div class="progress-stacked" style={{height: "10px"}}>
+  <div class="progress rounded-2" role="progressbar" aria-valuemin="0" aria-valuemax="100" style={{width: "40%", height: "10px"}}>
+    <div class="progress-bar" style={{backgroundColor: "var(--bs-progress-bg)"}}></div>
+  </div>
+  <div class="progress" role="progressbar" aria-valuemin="0" aria-valuemax="100" style={{width: "20%", height: "10px"}}>
+    <div class="progress-bar bg-warning rounded-2"></div>
+  </div>
+</div>
+
+<div class="d-flex">
+  <div class="py-2">**Severe Impairment**</div>
+  <div class="ms-auto py-2">61–80 dBHL</div>
+</div>
+<div class="progress-stacked" style={{height: "10px"}}>
+  <div class="progress rounded-2" role="progressbar" aria-valuemin="0" aria-valuemax="100" style={{width: "60%", height: "10px"}}>
+    <div class="progress-bar" style={{backgroundColor: "var(--bs-progress-bg)"}}></div>
+  </div>
+  <div class="progress" role="progressbar" aria-valuemin="0" aria-valuemax="100" style={{width: "20%", height: "10px"}}>
+    <div class="progress-bar bg-danger rounded-2"></div>
+  </div>
+</div>
+
+<div class="d-flex">
+  <div class="py-2">**Profound Impairment**</div>
+  <div class="ms-auto py-2">Above 80 dBHL</div>
+</div>
+<div class="progress-stacked mb-2" style={{height: "10px"}}>
+  <div class="progress rounded-2" role="progressbar" aria-valuemin="0" aria-valuemax="100" style={{width: "80%", height: "10px"}}>
+    <div class="progress-bar" style={{backgroundColor: "var(--bs-progress-bg)"}}></div>
+  </div>
+  <div class="progress" role="progressbar" aria-valuemin="0" aria-valuemax="100" style={{width: "20%", height: "10px"}}>
+    <div class="progress-bar bg-danger rounded-2"></div>
+  </div>
+</div>
 
 <small>*Source: World Health Organization*</small>
