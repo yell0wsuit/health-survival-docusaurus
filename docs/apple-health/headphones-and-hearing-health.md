@@ -22,134 +22,134 @@ Permanent damage usually occurs when your ears don’t have a chance to recover 
 
 ## Example Sound Levels
 
-<div class="d-flex">
-  <div class="py-2">**Whisper**</div>
-  <div class="ms-auto py-2">30–39 dB</div>
+<div className="d-flex">
+  <div className="py-2">**Whisper**</div>
+  <div className="ms-auto py-2">30–39 dB</div>
 </div>
-<div class="progress rounded-2" role="progressbar" aria-label="Basic example" aria-valuemin="0" aria-valuemax="100" style={{height: "10px"}}>
-  <div class="progress-bar rounded-2 bg-success" style={{width: "10%"}}></div>
-</div>
-
-<div class="d-flex">
-  <div class="py-2">**Library**</div>
-  <div class="ms-auto py-2">40–49 dB</div>
-</div>
-<div class="progress-stacked" style={{height: "10px"}}>
-  <div class="progress rounded-2" role="progressbar" aria-valuemin="0" aria-valuemax="100" style={{width: "10%", height: "10px"}}>
-    <div class="progress-bar" style={{backgroundColor: "var(--bs-progress-bg)"}}></div>
-  </div>
-  <div class="progress" role="progressbar" aria-valuemin="0" aria-valuemax="100" style={{width: "10%", height: "10px"}}>
-    <div class="progress-bar bg-success rounded-2"></div>
-  </div>
+<div className="progress rounded-2" role="progressbar" aria-label="Basic example" aria-valuemin="0" aria-valuemax="100" style={{height: "10px"}}>
+  <div className="progress-bar rounded-2 bg-success" style={{width: "10%"}}></div>
 </div>
 
-<div class="d-flex">
-  <div class="py-2">**Moderate Rainfall**</div>
-  <div class="ms-auto py-2">50–59 dB</div>
+<div className="d-flex">
+  <div className="py-2">**Library**</div>
+  <div className="ms-auto py-2">40–49 dB</div>
 </div>
-<div class="progress-stacked" style={{height: "10px"}}>
-  <div class="progress rounded-2" role="progressbar" aria-valuemin="0" aria-valuemax="100" style={{width: "20%", height: "10px"}}>
-    <div class="progress-bar" style={{backgroundColor: "var(--bs-progress-bg)"}}></div>
+<div className="progress-stacked" style={{height: "10px"}}>
+  <div className="progress rounded-2" role="progressbar" aria-valuemin="0" aria-valuemax="100" style={{width: "10%", height: "10px"}}>
+    <div className="progress-bar" style={{backgroundColor: "var(--bs-progress-bg)"}}></div>
   </div>
-  <div class="progress" role="progressbar" aria-valuemin="0" aria-valuemax="100" style={{width: "10%", height: "10px"}}>
-    <div class="progress-bar bg-success rounded-2"></div>
+  <div className="progress" role="progressbar" aria-valuemin="0" aria-valuemax="100" style={{width: "10%", height: "10px"}}>
+    <div className="progress-bar bg-success rounded-2"></div>
   </div>
 </div>
 
-<div class="d-flex">
-  <div class="py-2">**Conversation**</div>
-  <div class="ms-auto py-2">60–69 dB</div>
+<div className="d-flex">
+  <div className="py-2">**Moderate Rainfall**</div>
+  <div className="ms-auto py-2">50–59 dB</div>
 </div>
-<div class="progress-stacked" style={{height: "10px"}}>
-  <div class="progress rounded-2" role="progressbar" aria-valuemin="0" aria-valuemax="100" style={{width: "30%", height: "10px"}}>
-    <div class="progress-bar" style={{backgroundColor: "var(--bs-progress-bg)"}}></div>
+<div className="progress-stacked" style={{height: "10px"}}>
+  <div className="progress rounded-2" role="progressbar" aria-valuemin="0" aria-valuemax="100" style={{width: "20%", height: "10px"}}>
+    <div className="progress-bar" style={{backgroundColor: "var(--bs-progress-bg)"}}></div>
   </div>
-  <div class="progress" role="progressbar" aria-valuemin="0" aria-valuemax="100" style={{width: "10%", height: "10px"}}>
-    <div class="progress-bar bg-success rounded-2"></div>
+  <div className="progress" role="progressbar" aria-valuemin="0" aria-valuemax="100" style={{width: "10%", height: "10px"}}>
+    <div className="progress-bar bg-success rounded-2"></div>
   </div>
 </div>
 
-<div class="d-flex">
-  <div class="py-2">**Vacuum Cleaner**</div>
-  <div class="ms-auto py-2">70–79 dB</div>
+<div className="d-flex">
+  <div className="py-2">**Conversation**</div>
+  <div className="ms-auto py-2">60–69 dB</div>
 </div>
-<div class="progress-stacked" style={{height: "10px"}}>
-  <div class="progress rounded-2" role="progressbar" aria-valuemin="0" aria-valuemax="100" style={{width: "40%", height: "10px"}}>
-    <div class="progress-bar" style={{backgroundColor: "var(--bs-progress-bg)"}}></div>
+<div className="progress-stacked" style={{height: "10px"}}>
+  <div className="progress rounded-2" role="progressbar" aria-valuemin="0" aria-valuemax="100" style={{width: "30%", height: "10px"}}>
+    <div className="progress-bar" style={{backgroundColor: "var(--bs-progress-bg)"}}></div>
   </div>
-  <div class="progress" role="progressbar" aria-valuemin="0" aria-valuemax="100" style={{width: "10%", height: "10px"}}>
-    <div class="progress-bar bg-warning rounded-2"></div>
+  <div className="progress" role="progressbar" aria-valuemin="0" aria-valuemax="100" style={{width: "10%", height: "10px"}}>
+    <div className="progress-bar bg-success rounded-2"></div>
+  </div>
+</div>
+
+<div className="d-flex">
+  <div className="py-2">**Vacuum Cleaner**</div>
+  <div className="ms-auto py-2">70–79 dB</div>
+</div>
+<div className="progress-stacked" style={{height: "10px"}}>
+  <div className="progress rounded-2" role="progressbar" aria-valuemin="0" aria-valuemax="100" style={{width: "40%", height: "10px"}}>
+    <div className="progress-bar" style={{backgroundColor: "var(--bs-progress-bg)"}}></div>
+  </div>
+  <div className="progress" role="progressbar" aria-valuemin="0" aria-valuemax="100" style={{width: "10%", height: "10px"}}>
+    <div className="progress-bar bg-warning rounded-2"></div>
   </div>
 </div>
 <small>75 dB exposure limit: 127 hours / 7 days</small>
 
-<div class="d-flex">
-  <div class="py-2">**Noisy Restaurant**</div>
-  <div class="ms-auto py-2">80–89 dB</div>
+<div className="d-flex">
+  <div className="py-2">**Noisy Restaurant**</div>
+  <div className="ms-auto py-2">80–89 dB</div>
 </div>
-<div class="progress-stacked" style={{height: "10px"}}>
-  <div class="progress rounded-2" role="progressbar" aria-valuemin="0" aria-valuemax="100" style={{width: "50%", height: "10px"}}>
-    <div class="progress-bar" style={{backgroundColor: "var(--bs-progress-bg)"}}></div>
+<div className="progress-stacked" style={{height: "10px"}}>
+  <div className="progress rounded-2" role="progressbar" aria-valuemin="0" aria-valuemax="100" style={{width: "50%", height: "10px"}}>
+    <div className="progress-bar" style={{backgroundColor: "var(--bs-progress-bg)"}}></div>
   </div>
-  <div class="progress" role="progressbar" aria-valuemin="0" aria-valuemax="100" style={{width: "10%", height: "10px"}}>
-    <div class="progress-bar bg-warning rounded-2"></div>
+  <div className="progress" role="progressbar" aria-valuemin="0" aria-valuemax="100" style={{width: "10%", height: "10px"}}>
+    <div className="progress-bar bg-warning rounded-2"></div>
   </div>
 </div>
 <small>80 dB exposure limit: 40 hours / 7 days</small>
 
-<div class="d-flex">
-  <div class="py-2">**Motorcycle**</div>
-  <div class="ms-auto py-2">90–99 dB</div>
+<div className="d-flex">
+  <div className="py-2">**Motorcycle**</div>
+  <div className="ms-auto py-2">90–99 dB</div>
 </div>
-<div class="progress-stacked" style={{height: "10px"}}>
-  <div class="progress rounded-2" role="progressbar" aria-valuemin="0" aria-valuemax="100" style={{width: "60%", height: "10px"}}>
-    <div class="progress-bar" style={{backgroundColor: "var(--bs-progress-bg)"}}></div>
+<div className="progress-stacked" style={{height: "10px"}}>
+  <div className="progress rounded-2" role="progressbar" aria-valuemin="0" aria-valuemax="100" style={{width: "60%", height: "10px"}}>
+    <div className="progress-bar" style={{backgroundColor: "var(--bs-progress-bg)"}}></div>
   </div>
-  <div class="progress" role="progressbar" aria-valuemin="0" aria-valuemax="100" style={{width: "10%", height: "10px"}}>
-    <div class="progress-bar bg-warning rounded-2"></div>
+  <div className="progress" role="progressbar" aria-valuemin="0" aria-valuemax="100" style={{width: "10%", height: "10px"}}>
+    <div className="progress-bar bg-warning rounded-2"></div>
   </div>
 </div>
 <small>90 dB exposure limit: 4 hours / 7 days</small>
 
-<div class="d-flex">
-  <div class="py-2">**Ambulance Siren**</div>
-  <div class="ms-auto py-2">100–109 dB</div>
+<div className="d-flex">
+  <div className="py-2">**Ambulance Siren**</div>
+  <div className="ms-auto py-2">100–109 dB</div>
 </div>
-<div class="progress-stacked" style={{height: "10px"}}>
-  <div class="progress rounded-2" role="progressbar" aria-valuemin="0" aria-valuemax="100" style={{width: "70%", height: "10px"}}>
-    <div class="progress-bar" style={{backgroundColor: "var(--bs-progress-bg)"}}></div>
+<div className="progress-stacked" style={{height: "10px"}}>
+  <div className="progress rounded-2" role="progressbar" aria-valuemin="0" aria-valuemax="100" style={{width: "70%", height: "10px"}}>
+    <div className="progress-bar" style={{backgroundColor: "var(--bs-progress-bg)"}}></div>
   </div>
-  <div class="progress" role="progressbar" aria-valuemin="0" aria-valuemax="100" style={{width: "10%", height: "10px"}}>
-    <div class="progress-bar bg-danger rounded-2"></div>
+  <div className="progress" role="progressbar" aria-valuemin="0" aria-valuemax="100" style={{width: "10%", height: "10px"}}>
+    <div className="progress-bar bg-danger rounded-2"></div>
   </div>
 </div>
 <small>100 dB exposure limit: 24 minutes / 7 days</small>
 
-<div class="d-flex">
-  <div class="py-2">**Rock Concert**</div>
-  <div class="ms-auto py-2">110–119 dB</div>
+<div className="d-flex">
+  <div className="py-2">**Rock Concert**</div>
+  <div className="ms-auto py-2">110–119 dB</div>
 </div>
-<div class="progress-stacked" style={{height: "10px"}}>
-  <div class="progress rounded-2" role="progressbar" aria-valuemin="0" aria-valuemax="100" style={{width: "80%", height: "10px"}}>
-    <div class="progress-bar" style={{backgroundColor: "var(--bs-progress-bg)"}}></div>
+<div className="progress-stacked" style={{height: "10px"}}>
+  <div className="progress rounded-2" role="progressbar" aria-valuemin="0" aria-valuemax="100" style={{width: "80%", height: "10px"}}>
+    <div className="progress-bar" style={{backgroundColor: "var(--bs-progress-bg)"}}></div>
   </div>
-  <div class="progress" role="progressbar" aria-valuemin="0" aria-valuemax="100" style={{width: "10%", height: "10px"}}>
-    <div class="progress-bar bg-danger rounded-2"></div>
+  <div className="progress" role="progressbar" aria-valuemin="0" aria-valuemax="100" style={{width: "10%", height: "10px"}}>
+    <div className="progress-bar bg-danger rounded-2"></div>
   </div>
 </div>
 <small>110 dB exposure limit: 4 minutes / 7 days</small>
 
 
-<div class="d-flex">
-  <div class="py-2">**Thunder Clap**</div>
-  <div class="ms-auto py-2">120–130 dB</div>
+<div className="d-flex">
+  <div className="py-2">**Thunder Clap**</div>
+  <div className="ms-auto py-2">120–130 dB</div>
 </div>
-<div class="progress-stacked" style={{height: "10px"}}>
-  <div class="progress rounded-2" role="progressbar" aria-valuemin="0" aria-valuemax="100" style={{width: "90%", height: "10px"}}>
-    <div class="progress-bar" style={{backgroundColor: "var(--bs-progress-bg)"}}></div>
+<div className="progress-stacked" style={{height: "10px"}}>
+  <div className="progress rounded-2" role="progressbar" aria-valuemin="0" aria-valuemax="100" style={{width: "90%", height: "10px"}}>
+    <div className="progress-bar" style={{backgroundColor: "var(--bs-progress-bg)"}}></div>
   </div>
-  <div class="progress" role="progressbar" aria-valuemin="0" aria-valuemax="100" style={{width: "10%", height: "10px"}}>
-    <div class="progress-bar bg-danger rounded-2"></div>
+  <div className="progress" role="progressbar" aria-valuemin="0" aria-valuemax="100" style={{width: "10%", height: "10px"}}>
+    <div className="progress-bar bg-danger rounded-2"></div>
   </div>
 </div>
 <small>
