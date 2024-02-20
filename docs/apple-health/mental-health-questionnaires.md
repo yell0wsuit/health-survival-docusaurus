@@ -12,6 +12,8 @@ tags:
 
 Mental health questionnaires can be used to provide information about an individual’s mental health, family history, risk factors, or conditions. A mental health condition can impact your feelings, thoughts, and behaviors. Early identification of a condition can help you address it and minimize its impact. Taking a mental health questionnaire regularly is one way to better understand your mental health and how it changes over time.
 
+[Try the interactive mental health quiz here](/apple-health/mental-health-quiz)
+
 
 ## Screening for Anxiety and Depression
 
