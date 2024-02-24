@@ -1,41 +1,20 @@
-# Website
+# Health & Survival
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+> A place where you can find useful tips and resources on how to stay healthy and safe in various situations.
 
-### Installation
+![socialcard](https://github.com/yell0wsuit/health-survival-docusaurus/assets/5692900/0e3442db-2a26-48bd-ab4c-1255dfb1dc3d)
 
-```
-$ yarn
-```
+Welcome to yell0wsuit's Health and Survival section. This is a place where you can find useful tips and resources on how to stay healthy and safe in various situations.
 
-### Local Development
+Visit https://health.yell0wsuit.page/ to explore now.
 
-```
-$ yarn start
-```
+Health is one of the most important aspects of life. It affects everything we do, from simple tasks like breathing or walking, to more complex ones like playing sports or making decisions. Having good health is not only a physical condition, but also a mental and emotional state. And having good health helps us survive. But survival is not just about avoiding accidents, it is also about living well and enjoying life.
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+I have collections of health and survival tips from many sources. Here are some of them:
 
-### Build
+- SAS Survival Guide
+- SAS Urban Survival Guide
+- Apple Health articles
 
-```
-$ yarn build
-```
+_(more sources will be added)_
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
