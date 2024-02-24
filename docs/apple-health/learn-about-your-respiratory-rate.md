@@ -7,7 +7,7 @@ tags:
 - breathing
 ---
 
-![ ](/images/Resp-Rate_Article_Illustration.jpg)
+![ ](/images/apple-health/Resp-Rate_Article_Illustration.jpg)
 
 ## What Is Respiratory Rate?
 

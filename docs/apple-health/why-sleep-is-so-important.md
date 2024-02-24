@@ -6,7 +6,7 @@ tags:
     - sleep
 ---
 
-![ ](/images/Eucalyptus-moon_Article_illustration.jpg)
+![ ](/images/apple-health/Eucalyptus-moon_Article_illustration.jpg)
 
 Sleep occurs when your body and brain drop into an unconscious, restorative state. While you’re sleeping, many of your body’s basic functions are altered or suspended while other specialized functions happen. You may not remember much of your sleep, but you’re likely to spend about a third of your life in this state.
 
@@ -16,7 +16,7 @@ So how do you know when you’re getting the right amount sleep? When you wake u
 
 Over the course of a day, you build up sleep pressure. You may find yourself nodding off or feeling tired. This is your body’s way of saying it needs to sleep.
 
-![ ](/images/Moon-faces.jpg)
+![ ](/images/apple-health/Moon-faces.jpg)
 
 ## About Sleep Stages
 

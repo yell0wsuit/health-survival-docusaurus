@@ -6,7 +6,7 @@ tags:
 - mental-health
 ---
 
-![ ](/images/Screening_Article_Illustration.jpg)
+![ ](/images/apple-health/Screening_Article_Illustration.jpg)
 
 ## What is A Mental Health Questionnaire?
 

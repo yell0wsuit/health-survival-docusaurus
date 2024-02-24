@@ -7,7 +7,7 @@ tags:
     - vitals
 ---
 
-![ ](/images/Scandium_Vibrant_Article_Illustration.jpg)
+![ ](/images/apple-health/Scandium_Vibrant_Article_Illustration.jpg)
 
 Your blood carries oxygen to the cells in your tissues and organs. Knowing how well oxygenated your blood is can help you understand your overall health.
 

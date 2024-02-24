@@ -5,7 +5,7 @@ tags:
 - apple-health
 ---
 
-![](/images/Sunflower_Article_Illustration.jpg)
+![](/images/apple-health/Sunflower_Article_Illustration.jpg)
 
 ## The Role of Sunlight in Your Health
 

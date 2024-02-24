@@ -6,7 +6,7 @@ tags:
 - mental-health
 ---
 
-![ ](/images/Mental_Health_101_Article_Illustration.jpg)
+![ ](/images/apple-health/Mental_Health_101_Article_Illustration.jpg)
 
 ## Why Your Mental Health Matters
 

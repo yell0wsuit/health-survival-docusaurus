@@ -6,7 +6,7 @@ tags:
 - menstrual-cycle
 ---
 
-![](/images/CycleFactors_Article_Illustration.jpg)
+![](/images/apple-health/CycleFactors_Article_Illustration.jpg)
 
 Some people have regular cycles they can count on like clockwork, while many have cycles that aren’t regular. And for everyone who menstruates, there are certain factors that can impact their cycle—varying it a little or quite a lot.
 

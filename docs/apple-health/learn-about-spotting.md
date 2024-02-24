@@ -7,7 +7,7 @@ tags:
 - menstrual-cycle
 ---
 
-![](/images/Spotting_Article_Illustration.jpg)
+![](/images/apple-health/Spotting_Article_Illustration.jpg)
 
 Vaginal bleeding that comes when you don’t expect it based on your normal menstrual cycle can be a cause of inconvenience, discomfort, and worry. There are a number of potential causes, and it’s definitely worth paying attention to and discussing with your doctor.
 

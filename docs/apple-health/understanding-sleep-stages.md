@@ -6,11 +6,11 @@ tags:
 - sleep
 ---
 
-![](/images/SleepStages_Article_Illustration.jpg)
+![](/images/apple-health/SleepStages_Article_Illustration.jpg)
 
 While you’re sleeping, your body goes in and out of different stages of sleep. In general, a sleep stage is determined by the types of brain waves you produce. Most people will cycle through the different stages several times during a sleep session. While scientists and doctors can recognize which stage you’re in, they’re still working to fully understand the impact each stage has on the body.
 
-![](/images/sleep_stage_graph.webp)
+![](/images/apple-health/sleep_stage_graph.webp)
 
 <p className="fw-bold fs-4"><i className="bi bi-circle-fill me-2" style={{color: "#ff826c"}}></i>Awake</p>
 

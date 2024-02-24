@@ -5,7 +5,7 @@ tags:
     - apple-health
 ---
 
-![](/images/hlheartrate_Article_Illustration.jpg)
+![](/images/apple-health/hlheartrate_Article_Illustration.jpg)
 
 Your heart rate measures how fast your heart is beating to pump blood throughout your body. This can vary quite a bit during the day and is a good indicator of how hard your heart is working. Your heart rate may be up if you’re exercising or down if you’re meditating. When it seems to be up or down but there’s no clear reason why, that can indicate a problem.
 

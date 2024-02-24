@@ -7,7 +7,7 @@ tags:
 - walking
 ---
 
-![](/images/UnderstandingWalkingSteadiness_Article_Illustration.jpg)
+![](/images/apple-health/UnderstandingWalkingSteadiness_Article_Illustration.jpg)
 
 
 ## What Is Walking Steadiness?

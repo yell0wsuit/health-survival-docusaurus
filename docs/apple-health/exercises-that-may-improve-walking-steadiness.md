@@ -7,7 +7,7 @@ tags:
     - exercise
 ---
 
-![](/images/ExerciseSteadiness_Article_illustration.jpg)
+![](/images/apple-health/ExerciseSteadiness_Article_illustration.jpg)
 
 ## Why Walking Steadiness Goes Down
 

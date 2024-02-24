@@ -5,7 +5,7 @@ tags:
 - apple-health
 ---
 
-![](/images/MedicationTracking_Article_Illustration.jpg)
+![](/images/apple-health/MedicationTracking_Article_Illustration.jpg)
 
 ## Why Medication Tracking Is Important
 Whether you take one prescription medication or ten, it’s important to keep track of what you’re taking and when. How your body responds to a medication is unique, so tracking what you’re taking can help you understand how well a medicine is working for you. It can also help you remember when you took your last dose and when it’s time for your next. Accidentally taking doses too close together could lead to too much medication in your system which can be unsafe. Taking doses farther apart than prescribed, or skipping them altogether, could result in too little medication in your body, making it less effective.

@@ -6,7 +6,7 @@ tags:
 - hearing
 ---
 
-![ ](/images/HearingHealth_Article_Illustration.jpg)
+![ ](/images/apple-health/HearingHealth_Article_Illustration.jpg)
 
 It’s important to protect yourself from loud sounds that could impact your hearing. Unlike potentially damaging noise in your environment, you have total control over what comes through your headphones.
 

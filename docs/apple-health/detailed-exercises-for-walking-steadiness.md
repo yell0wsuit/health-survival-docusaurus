@@ -15,7 +15,7 @@ These sample exercises can give you a sense of what to expect.
 ## Sit to Stand
 
 <figure>
-![](/images/SitToStand_Cropped_01.jpg)
+![](/images/apple-health/SitToStand_Cropped_01.jpg)
 <figcaption className="figure-caption text-start">Molly, Fitness+ Trainer</figcaption>
 </figure>
 
@@ -33,7 +33,7 @@ from two hands to one hand, and eventually do the exercise without using your ha
 ## Calf Raises
 
 <figure>
-![](/images/CalfRaises_Cropped_01.jpg)
+![](/images/apple-health/CalfRaises_Cropped_01.jpg)
 <figcaption className="figure-caption text-start">Jhon, Fitness+ Trainer</figcaption>
 </figure>
 
@@ -49,7 +49,7 @@ As you get stronger and your balance improves, you can do the exercise without a
 ## Hip Abduction
 
 <figure>
-![](/images/HipAbduction_Cropped_01.jpg)
+![](/images/apple-health/HipAbduction_Cropped_01.jpg)
 <figcaption className="figure-caption text-start">Molly, Fitness+ Trainer</figcaption>
 </figure>
 
@@ -66,7 +66,7 @@ As you get stronger and your balance improves, you can do the exercise without a
 ## Heel Toe Walking
 
 <figure>
-![](/images/HeelToeWalking_Cropped_01.jpg)
+![](/images/apple-health/HeelToeWalking_Cropped_01.jpg)
 <figcaption className="figure-caption text-start">LaShawn, Fitness+ Trainer</figcaption>
 </figure>
 
@@ -82,7 +82,7 @@ on a tightrope.
 ## Walking and Turning Around
 
 <figure>
-![](/images/WalkAndTurnAround_Cropped_01.jpg)
+![](/images/apple-health/WalkAndTurnAround_Cropped_01.jpg)
 <figcaption className="figure-caption text-start">LaShawn, Fitness+ Trainer</figcaption>
 </figure>
 

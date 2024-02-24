@@ -6,7 +6,7 @@ tags:
 - hearing
 ---
 
-![ ](/images/HearingLoss_Article_Illustration.jpg)
+![ ](/images/apple-health/HearingLoss_Article_Illustration.jpg)
 
 ## How You Hear Sound
 Your hearing is a combination of interactions in your ear that convert sound waves into signals your brain can understand.
@@ -18,7 +18,7 @@ Sound levels are measured in decibels (dB) and generally considered loud when th
 
 Even brief exposure to very loud sounds, such as a concert, can cause temporary hearing loss. Long-term, repeated exposure to loud sounds can damage the hairs in your inner ear leading to permanent hearing loss.
 
-![ ](/images/hearing_health_inline_image@2x.jpg)
+![ ](/images/apple-health/hearing_health_inline_image@2x.jpg)
 
 As sounds get louder, the time you should be exposed to them drops significantly. For example, you may be able to hear city traffic (80dB) for 5 1/2 hours a day without trouble. But you should only be exposed to a motorcycle (90dB) for no more than half an hour a day.
 

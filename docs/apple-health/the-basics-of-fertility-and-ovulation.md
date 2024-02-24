@@ -6,7 +6,7 @@ tags:
 - menstrual-cycle
 ---
 
-![](/images/Ovulation-Fertility_Article_Illustration.jpg)
+![](/images/apple-health/Ovulation-Fertility_Article_Illustration.jpg)
 
 ## Understanding Fertility
 
@@ -24,7 +24,7 @@ During the first phase, the follicular phase, your ovaries are selecting and mat
 
 ## Menstrual Cycle
 
-![](/images/menstrual-cycle-graph.png)
+![](/images/apple-health/menstrual-cycle-graph.png)
 
 Ovulation marks the division between the two phases. When your estrogen levels are high enough, your brain dramatically increases the production of luteinizing hormone (LH). This LH surge is what causes your ovary to release an egg into the fallopian tube.
 

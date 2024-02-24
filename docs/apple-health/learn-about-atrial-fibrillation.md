@@ -8,7 +8,7 @@ tags:
 - heart
 ---
 
-![ ](/images/AFib_Article_Illustration.jpg)
+![ ](/images/apple-health/AFib_Article_Illustration.jpg)
 
 ## What is Atrial Fibrillation?
 

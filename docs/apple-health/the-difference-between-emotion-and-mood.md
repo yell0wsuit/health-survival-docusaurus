@@ -6,7 +6,7 @@ tags:
     - mental-health
 ---
 
-![ ](/images/MoodsEmotion_Article_Illustration.jpg)
+![ ](/images/apple-health/MoodsEmotion_Article_Illustration.jpg)
 
 While it’s easy to use the terms emotions and mood interchangeably, there are key differences. An emotion lasts for a moment and is a reaction to a specific experience. A mood lasts for a longer period of time, can arise from multiple experiences, and may not have a clear cause. Becoming familiar with these differences can help you understand more about how you think, feel, and act.
 

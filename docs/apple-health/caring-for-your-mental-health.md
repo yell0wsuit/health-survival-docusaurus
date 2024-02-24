@@ -6,7 +6,7 @@ tags:
     - mental-health
 ---
 
-![ ](/images/Mental_Health_101_Article_Illustration.jpg)
+![ ](/images/apple-health/Improve_your_Mental_Health_Article_Illustration.jpg)
 
 Your mental health is essential to your overall health. It can affect your thoughts, feelings, and behaviors. There are simple steps you can take to support your mental health. Incorporating some of these tips can help you cope with life’s ups and downs, improve your mood, and help you manage your emotions.
 

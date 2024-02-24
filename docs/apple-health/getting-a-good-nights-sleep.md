@@ -6,7 +6,7 @@ tags:
 - sleep
 ---
 
-![](/images/Eucalyptus-Sleep_Article_illustration.jpg)
+![](/images/apple-health/Eucalyptus-Sleep_Article_illustration.jpg)
 
 The things you do when you’re awake can have an impact on your sleep. Here are a few tips that can help you get better sleep so you can wake up feeling rested.
 
@@ -15,41 +15,41 @@ The things you do when you’re awake can have an impact on your sleep. Here are
 
 Good habits during your day can help promote better sleep.
 
-![](/images/apphth-skyinline.jpg)
+![](/images/apple-health/apphth-skyinline.jpg)
 
 <div className="row">
     <div className="col-2">
-        <img src="/images/During_Day_Sunlight.svg" alt="Nicotine & caffeine" width="150" />
+        <img src="/images/apple-health/During_Day_Sunlight.svg" alt="Nicotine & caffeine" width="150" />
     </div>
     <div className="col-10 d-flex align-items-center">
         <p>Get regular exposure to sunlight. Try for at least 30 minutes a day, preferably in the morning.</p>
     </div>
     <div className="col-2">
-        <img src="/images/During_Day_Nicotine&Caffeine.svg" alt="Nicotine & caffeine" width="150" />
+        <img src="/images/apple-health/During_Day_Nicotine&Caffeine.svg" alt="Nicotine & caffeine" width="150" />
     </div>
     <div className="col-10 d-flex align-items-center">
         <p>Avoid nicotine and caffeine. Both are stimulants that can keep you up.</p>
     </div>
     <div className="col-2">
-        <img src="/images/During_Day_medication.svg" alt="Medication" width="150" />
+        <img src="/images/apple-health/During_Day_medication.svg" alt="Medication" width="150" />
     </div>
     <div className="col-10 d-flex align-items-center">
         <p>If you’re taking regular medication, check with your doctor about its effects.</p>
     </div>
     <div className="col-2">
-        <img src="/images/During_Day_Nap.svg" alt="Nap" width="150" />
+        <img src="/images/apple-health/During_Day_Nap.svg" alt="Nap" width="150" />
     </div>
     <div className="col-10 d-flex align-items-center">
         <p>If you nap, try to avoid taking one within six hours of your bedtime.</p>
     </div>
     <div className="col-2">
-        <img src="/images/During_Day_Workouts.svg" alt="Workouts" width="150" />
+        <img src="/images/apple-health/During_Day_Workouts.svg" alt="Workouts" width="150" />
     </div>
     <div className="col-10 d-flex align-items-center">
         <p>Try to get your workouts in at least two to three hours before bed.</p>
     </div>
     <div className="col-2">
-        <img src="/images/During_Day_LargeMeals.svg" alt="Large meals" width="150" />
+        <img src="/images/apple-health/During_Day_LargeMeals.svg" alt="Large meals" width="150" />
     </div>
     <div className="col-10 d-flex align-items-center">
         <p>Stay away from large meals and a lot of liquids within a few hours of bedtime.</p>
@@ -62,25 +62,25 @@ Taking time to relax before crawling into bed can make getting to sleep easier.
 
 <div className="row">
     <div className="col-2">
-        <img src="/images/WindingDown_Alcohol.svg" alt="Alcohol" width="150" />
+        <img src="/images/apple-health/WindingDown_Alcohol.svg" alt="Alcohol" width="150" />
     </div>
     <div className="col-10 d-flex align-items-center">
         <p>Alcohol can decrease the quality of your sleep.</p>
     </div>
     <div className="col-2">
-        <img src="/images/WindingDown_DimLights.svg" alt="Dim lights" width="150" />
+        <img src="/images/apple-health/WindingDown_DimLights.svg" alt="Dim lights" width="150" />
     </div>
     <div className="col-10 d-flex align-items-center">
         <p>Dim the lights in the evening. It will help your body know it’s time for sleep.</p>
     </div>
     <div className="col-2">
-        <img src="/images/WindingDown_Relax.svg" alt="Relax" width="150" />
+        <img src="/images/apple-health/WindingDown_Relax.svg" alt="Relax" width="150" />
     </div>
     <div className="col-10 d-flex align-items-center">
         <p>Relax before getting in bed. Make reading a book, listening to music, or journaling a ritual.</p>
     </div>
     <div className="col-2">
-        <img src="/images/WindingDown_HotBath.svg" alt="Hot bath" width="150" />
+        <img src="/images/apple-health/WindingDown_HotBath.svg" alt="Hot bath" width="150" />
     </div>
     <div className="col-10 d-flex align-items-center">
         <p>A hot bath can help you wind down.</p>
@@ -91,7 +91,7 @@ Taking time to relax before crawling into bed can make getting to sleep easier.
 
 Make sure your bedroom is helping you sleep well.
 
-![](/images/Moon-bedroom.jpg)
+![](/images/apple-health/Moon-bedroom.jpg)
 
 - Make sure your bedroom is cool and dark.
 - Try to keep electronics and other distractions out of the bedroom.

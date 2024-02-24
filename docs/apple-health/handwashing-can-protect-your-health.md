@@ -5,7 +5,7 @@ tags:
     - apple-health
 ---
 
-![](/images/HandWashing_Article_Illustration.jpg)
+![](/images/apple-health/HandWashing_Article_Illustration.jpg)
 
 Washing your hands may be your most important protection against getting sick. But only if you do it correctly—and most people don’t. One study showed that as many as 95% of us either wash too fast, use water but no soap, or just don’t wash at all.
 

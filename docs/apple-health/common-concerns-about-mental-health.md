@@ -6,7 +6,7 @@ tags:
     - mental-health
 ---
 
-![ ](/images/Understanding_Mental_Health_Article_Illustration.jpg)
+![ ](/images/apple-health/Understanding_Mental_Health_Article_Illustration.jpg)
 
 Mental health involves factors like how you think, feel, and behave. Mental health is a spectrum and where you are on that spectrum is unique to each individual. This is because the factors that contribute to your mental health, such as your experiences, family history, and biology, differ from person-to-person. Building awareness about common mental health concerns can help you learn what to pay attention to and support your overall health.
 

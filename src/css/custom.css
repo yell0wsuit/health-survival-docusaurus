@@ -24,6 +24,22 @@
     --ifm-font-size-base: 1rem;
     --ifm-background-color: #ffffff;
     --ifm-footer-background-color: var(--bs-tertiary-bg);
+    /* fbgdbg */
+    --blue-grad: radial-gradient(50% 50% at 50% 50%, rgba(24, 119, 242, 0.3) 0, rgba(24, 119, 242, 0) 50%),
+        radial-gradient(50% 50% at 50% 50%, rgba(24, 119, 242, 0.5) 0, rgba(24, 119, 242, 0) 75%),
+        radial-gradient(50% 50% at 50% 50%, rgba(24, 119, 242, 0.8) 0, rgba(24, 119, 242, 0) 100%);
+    --green-grad: radial-gradient(50% 50% at 50% 50%, rgba(37, 211, 102, 0.3) 0, rgba(37, 211, 102, 0) 50%),
+        radial-gradient(50% 50% at 50% 50%, rgba(37, 211, 102, 0.5) 0, rgba(37, 211, 102, 0) 75%),
+        radial-gradient(50% 50% at 50% 50%, rgba(37, 211, 102, 0.8) 0, rgba(37, 211, 102, 0) 100%);
+    --yellow-grad: radial-gradient(50% 50% at 50% 50%, rgba(245, 206, 51, 0.3) 0, rgba(245, 206, 51, 0) 50%),
+        radial-gradient(50% 50% at 50% 50%, rgba(245, 206, 51, 0.5) 0, rgba(245, 206, 51, 0) 75%),
+        radial-gradient(50% 50% at 50% 50%, rgba(245, 206, 51, 0.8) 0, rgba(245, 206, 51, 0) 100%);
+    --red-grad: radial-gradient(50% 50% at 50% 50%, rgba(255, 108, 92, 0.3) 0, rgba(255, 108, 92, 0) 50%),
+        radial-gradient(50% 50% at 50% 50%, rgba(255, 108, 92, 0.5) 0, rgba(255, 108, 92, 0) 75%),
+        radial-gradient(50% 50% at 50% 50%, rgba(255, 108, 92, 0.8) 0, rgba(255, 108, 92, 0) 100%);
+    --purple-grad: radial-gradient(50% 50% at 50% 50%, rgba(160, 51, 255, 0.3) 0, rgba(160, 51, 255, 0) 50%),
+        radial-gradient(50% 50% at 50% 50%, rgba(160, 51, 255, 0.5) 0, rgba(160, 51, 255, 0) 75%),
+        radial-gradient(50% 50% at 50% 50%, rgba(160, 51, 255, 0.8) 0, rgba(160, 51, 255, 0) 100%);
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
@@ -107,6 +123,75 @@ div[class^="announcementBar"] {
 
 .card {
     overflow: unset;
+}
+
+/* fbgdbg */
+
+.fbgdbg {
+    z-index: -1;
+    width: 100%;
+    /* height: 100%; */
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    padding-bottom: 300%;
+    width: 300%;
+    opacity: 0.2;
+}
+
+.blue-gradient {
+    position: inherit;
+    background-image: var(--blue-grad);
+    bottom: 10%;
+    left: 0;
+    right: 0;
+    top: 26%;
+}
+
+.blue-gradient-bottom {
+    position: inherit;
+    background-image: var(--blue-grad);
+    bottom: 0;
+    left: 0;
+    right: 24.38%;
+    top: 51.52%;
+}
+
+.green-gradient {
+    position: inherit;
+    background-image: var(--green-grad);
+    bottom: 44%;
+    left: 17%;
+    right: 17%;
+    top: 13.7%;
+}
+
+.yellow-gradient {
+    position: inherit;
+    background-image: var(--yellow-grad);
+    bottom: 33.2%;
+    left: 36.88%;
+    right: 19.69%;
+    top: 5.73%;
+}
+
+.red-gradient {
+    position: inherit;
+    background-image: var(--red-grad);
+    bottom: 45.27%;
+    left: 37.78%;
+    right: 4.9%;
+    top: 17.96%;
+}
+
+.purple-gradient {
+    position: inherit;
+    background-image: var(--purple-grad);
+    bottom: 38.4%;
+    left: 45.99%;
+    right: 1.86%;
+    top: 28.59%;
 }
 
 /* Selected Bootstrap reboot styles -- to prevent breaking Docusaurus */

@@ -5,7 +5,7 @@ tags:
 - apple-health
 ---
 
-![](/images/Blood-Glucose_Article_Illustration.jpg)
+![](/images/apple-health/Blood-Glucose_Article_Illustration.jpg)
 
 ## What is Blood Glucose?
 

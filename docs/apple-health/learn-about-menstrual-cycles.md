@@ -6,7 +6,7 @@ tags:
 - menstrual-cycle
 ---
 
-![](/images/MenstrualCycle_Article_Illustration-2.jpg)
+![](/images/apple-health/MenstrualCycle_Article_Illustration-2.jpg)
 
 A menstrual cycle is an important part of your health. It’s often called the sixth vital sign because it involves so many parts of the body, including the brain, hormones, ovaries and uterus. Cycles vary from month-to-month and person-to-person. The best way to understand what’s normal for you is by tracking your periods.
 

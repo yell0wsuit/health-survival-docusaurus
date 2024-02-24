@@ -6,7 +6,7 @@ tags:
 - hearing
 ---
 
-![ ](/images/audiogram_hero_image.webp)
+![ ](/images/apple-health/audiogram_hero_image.webp)
 
 Hearing loss occurs for a variety of reasons, and you may have better hearing in one ear than the other. Changes to your ears as you age, long-term exposure to loud sounds, or illness can all affect your hearing.
 
@@ -14,7 +14,7 @@ Aging is one of the primary causes for hearing loss. Generally, you can hear mor
 
 Hearing loss from loud sounds such as a concert tends to be temporary but can become permanent with repeated exposure. Damage is more likely if your ears don’t have time to recover afterward. In loud environments, it’s a good idea to protect your hearing with earplugs or noise-reducing headphones. If you have an Apple Watch, it can detect loud sounds and alert you when they reach harmful levels.
 
-![ ](/images/audiogram_inline_image@2x.jpg)
+![ ](/images/apple-health/audiogram_inline_image@2x.jpg)
 
 People also hear sounds in different ways. Some are better at hearing low frequency sounds, such as rolling thunder or a tuba. Others are better at hearing high frequency sounds such as a bird chirping or a whistle. A quiet sound that can be heard perfectly  by one person, might only be heard when it’s loud by another person.
 

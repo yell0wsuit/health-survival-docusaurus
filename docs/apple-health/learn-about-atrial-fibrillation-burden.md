@@ -8,7 +8,7 @@ tags:
 - heart
 ---
 
-![ ](/images/AfibBurden_Article_Illustration.jpg)
+![ ](/images/apple-health/AfibBurden_Article_Illustration.jpg)
 
 ## What Is AFib Burden?
 
