@@ -12,7 +12,7 @@ import NavbarLogo from '@theme/Navbar/Logo';
 import NavbarSearch from '@theme/Navbar/Search';
 import styles from './styles.module.css';
 
-import ThemeSwitcher from '/src/js/ThemeSwitcher';
+import SettingsModal from '/src/js/SettingsModal';
 import BrowserOnly from '@docusaurus/BrowserOnly';
 
 function useNavbarItems() {
@@ -68,7 +68,7 @@ export default function NavbarContent() {
         <>
           <NavbarItems items={rightItems} />
           <NavbarColorModeToggle className={styles.colorModeToggle} />
-          <BrowserOnly>{()=><ThemeSwitcher />}</BrowserOnly>
+          <BrowserOnly>{()=><SettingsModal />}</BrowserOnly>
           {!searchBarItem && (
             <NavbarSearch>
               <SearchBar />
