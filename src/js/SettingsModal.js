@@ -42,8 +42,13 @@ const SettingsModal = () => {
         document.documentElement.setAttribute("data-bs-theme", finalTheme);
     };
 
-    const applyFontSetting = (fontKey) => {
-        document.documentElement.style.setProperty("--ifm-font-family-base", fonts[fontKey]);
+    const applyFontSetting = (fontName) => {
+        const selectedFont = fonts.find((font) => font.fontFamily === fontName);
+        if (selectedFont) {
+            document.documentElement.style.setProperty("--ifm-font-family-base", selectedFont.fontFamily);
+        } else {
+            console.error("Font not found:", fontName);
+        }
     };
 
     const applyFontSize = (fontSize) => {
@@ -67,6 +72,7 @@ const SettingsModal = () => {
 
     useEffect(() => {
         applySettings();
+        initializeSettings();
         const mediaQuery = window.matchMedia("(prefers-color-scheme: dark)");
         const handleChange = () => {
             const localSettings = JSON.parse(localStorage.getItem("healthandsurvival") || "{}");
@@ -105,21 +111,104 @@ const SettingsModal = () => {
     };
 
     // Font switch
-    const fonts = {
+    /*const fonts = {
         "System Font": "system-ui",
         Inter: '"Inter", system-ui',
-        //Merriweather: '"Merriweather", serif',
-        "Noto Sans": "'Noto Sans', system-ui",
-        "Noto Serif": "'Noto Serif', system-ui",
-        //Roboto: '"Roboto", system-ui',
-        "Roboto Serif": '"Roboto Serif", serif',
-        "Roboto Mono": '"Roboto Mono", monospace',
-        "Source Sans": '"Source Sans", system-ui',
-        "Source Code Pro": '"Source Code Pro", monospace',
-        "Source Serif": '"Source Serif", serif',
-    };
+        "Noto Serif": "'Noto Serif'",
+        "Roboto Mono": '"Roboto Mono"',
+    };*/
+
+    const fonts = [
+        {
+            fontFamily: "system-ui",
+            displayName: "System Font",
+        },
+        {
+            fontFamily: "Inter",
+            displayName: "Inter",
+        },
+        {
+            fontFamily: "Roboto Mono",
+            url: "/fonts/RobotoMono-Variable.woff2",
+            urlItalic: "/fonts/RobotoMono-Italic-Variable.woff2",
+            displayName: "Roboto Mono",
+        },
+        {
+            fontFamily: "Noto Serif",
+            url: "/fonts/NotoSerif-Variable.woff2",
+            urlItalic: "/fonts/NotoSerif-Italic-Variable.woff2",
+            displayName: "Noto Serif",
+        },
+    ];
+
+    function injectFontFace(selectedFontFamily) {
+        // Filter the fonts array to get the selected font based on fontFamily
+        const selectedFont = fonts.filter((font) => font.fontFamily === selectedFontFamily)[0];
+
+        if (selectedFont) {
+            // Load normal style font
+            const dynamicFont = new FontFace(selectedFont.fontFamily, `url(${selectedFont.url})`, {
+                style: "normal",
+                weight: "300 900",
+                display: "swap"
+            });
+
+            // Load italic style font, if available
+            let dynamicFontItalic;
+            if (selectedFont.urlItalic) {
+                dynamicFontItalic = new FontFace(selectedFont.fontFamily, `url(${selectedFont.urlItalic})`, {
+                    style: "italic",
+                    weight: "300 900",
+                    display: "swap"
+                });
+            }
+
+            const loadPromises = [dynamicFont.load()];
+            if (dynamicFontItalic) loadPromises.push(dynamicFontItalic.load());
+
+            Promise.all(loadPromises)
+                .then((loadedFonts) => {
+                    loadedFonts.forEach((loadedFont) => {
+                        document.fonts.add(loadedFont);
+                    });
+                    console.log("Dynamic fonts loaded:", selectedFont.fontFamily);
+                })
+                .catch((error) => {
+                    console.error("Dynamic fonts failed to load for", selectedFont.fontFamily, error);
+                });
+        } else {
+            console.error("Selected font not found:", selectedFontFamily);
+        }
+    }
+
+    function getFontDisplayName(fontFamily) {
+        // Find the font object that matches the fontFamily
+        const font = fonts.find((font) => font.fontFamily === fontFamily);
+        // Return the displayName if found, otherwise return the fontFamily itself
+        return font ? font.displayName : fontFamily;
+    }
+
+    // Ensure this function is called when the app/component loads
+    function initializeSettings() {
+        // Attempt to load settings from local storage
+        const savedSettings = JSON.parse(localStorage.getItem("healthandsurvival"));
+        if (savedSettings && savedSettings.selectedFont) {
+            // Apply the font settings
+            applyFontSetting(savedSettings.selectedFont);
+
+            // Load the font using your existing logic
+            const selectedFont = fonts.find((font) => font.fontFamily === savedSettings.selectedFont);
+            if (selectedFont) {
+                injectFontFace(selectedFont.fontFamily);
+            }
+
+            // Update your app's state with the loaded settings
+            setSettings(savedSettings);
+        }
+    }
 
     const handleFontChange = (newFont) => {
+        injectFontFace(newFont);
         const newSettings = { ...settings, selectedFont: newFont };
         setSettings(newSettings);
         localStorage.setItem("healthandsurvival", JSON.stringify(newSettings));
@@ -190,12 +279,12 @@ const SettingsModal = () => {
                                                 "--bs-btn-border-color": "var(--bs-body-color)",
                                                 "--bs-btn-hover-border-color": "var(--bs-secondary-color)",
                                             }}>
-                                            {settings.selectedFont}
+                                            {getFontDisplayName(settings.selectedFont)}
                                         </Dropdown.Toggle>
                                         <Dropdown.Menu>
-                                            {Object.keys(fonts).map((fontKey) => (
-                                                <Dropdown.Item key={fontKey} onClick={() => handleFontChange(fontKey)}>
-                                                    <span style={{ fontFamily: fonts[fontKey] }}>{fontKey}</span>
+                                            {fonts.map((font) => (
+                                                <Dropdown.Item key={font.displayName} onClick={() => handleFontChange(font.fontFamily)}>
+                                                    {font.displayName}
                                                 </Dropdown.Item>
                                             ))}
                                         </Dropdown.Menu>
