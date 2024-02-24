@@ -32,6 +32,11 @@ const config = {
     i18n: {
         defaultLocale: "en",
         locales: ["en"],
+        localeConfigs: {
+            vi: {
+                htmlLang: "vi-VN",
+            },
+        },
     },
 
     presets: [
@@ -42,6 +47,7 @@ const config = {
                 docs: {
                     routeBasePath: "/",
                     sidebarPath: "./sidebars.js",
+                    editUrl: "https://github.com/yell0wsuit/health-survival-docusaurus/edit/main/",
                 },
                 theme: {
                     customCss: ["./src/css/custom.css", "./src/css/custom.scss"],
@@ -81,6 +87,10 @@ const config = {
                         position: "left",
                         label: "Health & Survival",
                     },
+                    /*{
+                        type: "localeDropdown",
+                        position: "left",
+                    },*/
                 ],
             },
             announcementBar: {
