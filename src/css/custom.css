@@ -8,73 +8,169 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #2d729a;
-  --ifm-color-primary-dark: #29678b;
-  --ifm-color-primary-darker: #266183;
-  --ifm-color-primary-darkest: #20506c;
-  --ifm-color-primary-light: #317da9;
-  --ifm-color-primary-lighter: #3483b1;
-  --ifm-color-primary-lightest: #3d94c6;
-  --ifm-code-font-size: 95%;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
-  --ifm-font-family-base: Intervar, system-ui;
-  --ifm-link-decoration: underline;
-  --yllst-optical-size: 15;
-  --announcement-bar-bg-color: #fafbfc;
-  --ifm-font-size-base: 1rem;
-  --ifm-background-color: #ffffff;
-  --ifm-footer-background-color: var(--bs-tertiary-bg);
+    --ifm-color-primary: #2d729a;
+    --ifm-color-primary-dark: #29678b;
+    --ifm-color-primary-darker: #266183;
+    --ifm-color-primary-darkest: #20506c;
+    --ifm-color-primary-light: #317da9;
+    --ifm-color-primary-lighter: #3483b1;
+    --ifm-color-primary-lightest: #3d94c6;
+    --ifm-code-font-size: 95%;
+    --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+    --ifm-font-family-base: Inter, system-ui;
+    --ifm-link-decoration: underline;
+    --yllst-optical-size: 15;
+    --announcement-bar-bg-color: #fafbfc;
+    --ifm-font-size-base: 1rem;
+    --ifm-background-color: #ffffff;
+    --ifm-footer-background-color: var(--bs-tertiary-bg);
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
-[data-theme='dark'] {
-  --ifm-color-primary: #ffda6a;
-  --ifm-color-primary-dark: #ffd146;
-  --ifm-color-primary-darker: #ffcd34;
-  --ifm-color-primary-darkest: #ffc822;
-  --ifm-color-primary-light: #ffe38e;
-  --ifm-color-primary-lighter: #ffe7a0;
-  --ifm-color-primary-lightest: #fff5d6;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
-  --announcement-bar-bg-color: #303846;
+[data-theme="dark"] {
+    --ifm-color-primary: #ffda6a;
+    --ifm-color-primary-dark: #ffd146;
+    --ifm-color-primary-darker: #ffcd34;
+    --ifm-color-primary-darkest: #ffc822;
+    --ifm-color-primary-light: #ffe38e;
+    --ifm-color-primary-lighter: #ffe7a0;
+    --ifm-color-primary-lightest: #fff5d6;
+    --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+    --announcement-bar-bg-color: #303846;
 }
 
-html[data-theme='dark'] {
-  --ifm-background-color: #333333;
-  --ifm-background-surface-color: #3b3b3b;
+html[data-theme="dark"] {
+    --ifm-background-color: #333333;
+    --ifm-background-surface-color: #3b3b3b;
 }
 
-[data-bs-theme=dark] {
-  --bs-body-bg: #333333;
-}
-
-@font-face {
-  font-family: 'Intervar';
-  src: url('/fonts/InterVariable.woff2');
-  font-style: normal;
-  font-weight: 300 900;
+[data-bs-theme="dark"] {
+    --bs-body-bg: #333333;
 }
 
 @font-face {
-  font-family: 'Intervar';
-  src: url('/fonts/InterVariable-Italic.woff2');
-  font-style: italic;
-  font-weight: 300 900;
+    font-family: "Inter";
+    src: url("/fonts/InterVariable.woff2");
+    font-style: normal;
+    font-weight: 300 900;
+}
+
+@font-face {
+    font-family: "Inter";
+    src: url("/fonts/InterVariable-Italic.woff2");
+    font-style: italic;
+    font-weight: 300 900;
+}
+
+@font-face {
+    font-family: "Noto Sans";
+    src: url("/fonts/NotoSans-Variable.woff2");
+    font-style: normal;
+    font-weight: 300 900;
+}
+
+@font-face {
+    font-family: "Noto Sans";
+    src: url("/fonts/NotoSans-Italic-Variable.woff2");
+    font-style: italic;
+    font-weight: 300 900;
+}
+
+@font-face {
+    font-family: "Noto Serif";
+    src: url("/fonts/NotoSerif-Variable.woff2");
+    font-style: normal;
+    font-weight: 300 900;
+}
+
+@font-face {
+    font-family: "Noto Serif";
+    src: url("/fonts/NotoSerif-Italic-Variable.woff2");
+    font-style: italic;
+    font-weight: 300 900;
+}
+
+@font-face {
+    font-family: "Roboto Serif";
+    src: url("/fonts/RobotoSerifVariable.woff2");
+    font-style: normal;
+    font-weight: 300 900;
+}
+
+@font-face {
+    font-family: "Roboto Serif";
+    src: url("/fonts/RobotoSerifVariable-Italic.woff2");
+    font-style: italic;
+    font-weight: 300 900;
+}
+
+@font-face {
+    font-family: "Roboto Mono";
+    src: url("/fonts/RobotoMono-Variable.woff2");
+    font-style: normal;
+    font-weight: 300 900;
+}
+
+@font-face {
+    font-family: "Roboto Mono";
+    src: url("/fonts/RobotoMono-Italic-Variable.woff2");
+    font-style: italic;
+    font-weight: 300 900;
+}
+
+@font-face {
+    font-family: "Source Code Pro";
+    src: url("/fonts/SourceCodePro-Variable.woff2");
+    font-style: normal;
+    font-weight: 300 900;
+}
+
+@font-face {
+    font-family: "Source Code Pro";
+    src: url("/fonts/SourceCodePro-Italic-Variable.woff2");
+    font-style: italic;
+    font-weight: 300 900;
+}
+@font-face {
+    font-family: "Source Sans";
+    src: url("/fonts/SourceSans3-Variable.woff2");
+    font-style: normal;
+    font-weight: 300 900;
+}
+
+@font-face {
+    font-family: "Source Sans";
+    src: url("/fonts/SourceSans3-Italic-Variable.woff2");
+    font-style: italic;
+    font-weight: 300 900;
+}
+@font-face {
+    font-family: "Source Serif";
+    src: url("/fonts/SourceSerif4-Variable.woff2");
+    font-style: normal;
+    font-weight: 300 900;
+}
+
+@font-face {
+    font-family: "Source Serif";
+    src: url("/fonts/SourceSerif4-Italic-Variable.woff2");
+    font-style: italic;
+    font-weight: 300 900;
 }
 
 html {
-  font-variation-settings: 'opsz' var(--yllst-optical-size);
+    font-variation-settings: "opsz" var(--yllst-optical-size);
 }
 
 * {
-  font-family: var(--ifm-font-family-base);
-  font-variation-settings: 'opsz' var(--yllst-optical-size);
+    font-family: var(--ifm-font-family-base);
+    font-variation-settings: "opsz" var(--yllst-optical-size);
 }
 
 article {
-  max-width: 820px;
-  margin-left: auto;
-  margin-right: auto;
+    max-width: 820px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .menu__link,
@@ -84,36 +180,40 @@ article {
 .pagination-nav__link,
 a.card,
 .navbar__link {
-  text-decoration: none;
+    text-decoration: none;
 }
 
 .table-of-contents .table-of-contents__link--active {
-  border-left: .125rem solid var(--ifm-link-color);
-  padding: .125rem 0 .125rem .75rem;
+    border-left: 0.125rem solid var(--ifm-link-color);
+    padding: 0.125rem 0 0.125rem 0.75rem;
 }
 
-div[class^='announcementBar'] {
-  background-color: var(--announcement-bar-bg-color);
-  color: var(--ifm-font-color-base);
-  z-index: 3;
-  border-bottom: none;
+div[class^="announcementBar"] {
+    background-color: var(--announcement-bar-bg-color);
+    color: var(--ifm-font-color-base);
+    z-index: 3;
+    border-bottom: none;
 }
 
 .close {
-  color: var(--ifm-color-content);
+    color: var(--ifm-color-content);
+}
+
+.card {
+    overflow: unset;
 }
 
 /* Selected Bootstrap reboot styles -- to prevent breaking Docusaurus */
 
 figure {
-  margin: 0 0 1rem;
+    margin: 0 0 1rem;
 }
 
 img,
 svg {
-  vertical-align: middle;
+    vertical-align: middle;
 }
 
 label {
-  display: inline-block;
+    display: inline-block;
 }

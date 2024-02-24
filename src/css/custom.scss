@@ -30,23 +30,30 @@
 @import "../../node_modules/bootstrap/scss/progress";
 @import "../../node_modules/bootstrap/scss/accordion";
 @import "../../node_modules/bootstrap/scss/transitions";
+@import "../../node_modules/bootstrap/scss/card";
+@import "../../node_modules/bootstrap/scss/tooltip";
+
+// 7. Optionally include utilities API last to generate classes based on the Sass map in `_utilities.scss`
+@import "../../node_modules/bootstrap/scss/utilities/api";
+
+// Custom code
 
 button,
 [type="button"], // 1
 [type="reset"],
 [type="submit"] {
-  -webkit-appearance: button; // 2
+    -webkit-appearance: button; // 2
 
-  @if $enable-button-pointers {
-    &:not(:disabled) {
-      cursor: pointer; // 3
+    @if $enable-button-pointers {
+        &:not(:disabled) {
+            cursor: pointer; // 3
+        }
     }
-  }
 }
 
 p {
-  margin-top: 0;
-  margin-bottom: $paragraph-margin-bottom;
+    margin-top: 0;
+    margin-bottom: $paragraph-margin-bottom;
 }
 
 // 1. Remove the margin in Firefox and Safari
@@ -56,23 +63,93 @@ button,
 select,
 optgroup,
 textarea {
-  margin: 0; // 1
-  font-family: inherit;
-  @include font-size(inherit);
-  line-height: inherit;
+    margin: 0; // 1
+    font-family: inherit;
+    @include font-size(inherit);
+    line-height: inherit;
 }
 
 // Remove the inheritance of text transform in Firefox
 button,
 select {
-  text-transform: none;
+    text-transform: none;
 }
 // Set the cursor for non-`<button>` buttons
 //
 // Details at https://github.com/twbs/bootstrap/pull/30562
 [role="button"] {
-  cursor: pointer;
+    cursor: pointer;
 }
 
-// 7. Optionally include utilities API last to generate classes based on the Sass map in `_utilities.scss`
-@import "../../node_modules/bootstrap/scss/utilities/api";
+hr {
+    margin: $hr-margin-y 0;
+    color: $hr-color; // 1
+    border: 0;
+    border-top: $hr-border-width solid $hr-border-color;
+    opacity: $hr-opacity;
+}
+
+small {
+    @include font-size($small-font-size);
+}
+
+.small {
+    @extend small;
+}
+
+// Custom colors from Bootstrap
+$orange-100: #ffe5d0 !default;
+$orange-200: #fecba1 !default;
+$orange-300: #feb272 !default;
+$orange-400: #fd9843 !default;
+$orange-500: #fd7e14 !default;
+$orange-600: #ca6510 !default;
+$orange-700: #984c0c !default;
+$orange-800: #653208 !default;
+$orange-900: #331904 !default;
+
+$indigo-100: #e0cffc !default;
+$indigo-200: #c29ffa !default;
+$indigo-300: #a370f7 !default;
+$indigo-400: #8540f5 !default;
+$indigo-500: #6610f2 !default;
+$indigo-600: #520dc2 !default;
+$indigo-700: #3d0a91 !default;
+$indigo-800: #290661 !default;
+$indigo-900: #140330 !default;
+
+$purple-100: #e2d9f3 !default;
+$purple-200: #c5b3e6 !default;
+$purple-300: #a98eda !default;
+$purple-400: #8c68cd !default;
+$purple-500: #6f42c1 !default;
+$purple-600: #59359a !default;
+$purple-700: #432874 !default;
+$purple-800: #2c1a4d !default;
+$purple-900: #160d27 !default;
+
+$teal-100: #d2f4ea !default;
+$teal-200: #a6e9d5 !default;
+$teal-300: #79dfc1 !default;
+$teal-400: #4dd4ac !default;
+$teal-500: #20c997 !default;
+$teal-600: #1aa179 !default;
+$teal-700: #13795b !default;
+$teal-800: #0d503c !default;
+$teal-900: #06281e !default;
+
+.bg-orange {
+    background-color: $orange-500;
+}
+
+.bg-orange-subtle {
+    background-color: $orange-100;
+}
+
+@if $enable-dark-mode {
+    @include color-mode(dark) {
+        .bg-orange-subtle {
+            background-color: $orange-900;
+        }
+    }
+}
