@@ -1,20 +1,10 @@
-<div className="row align-items-center">
-    <div className="col-md-4">
-        <div className="display-6 mb-4">Health and Survival</div>
-        <p>A place where you can find useful tips and resources on how to stay healthy and safe in various situations.</p>
-    </div>
-    <div className="col-md-8 d-flex justify-content-center">
-        <figure className="figure">
-            <img src="/images/cherise-evertz-KdOAFDzB_Mg-unsplash.jpg" className="figure-img img-fluid" alt="Compass" />
-            <figcaption className="figure-caption text-center">
-                Photo by <a href="https://unsplash.com/@cherise_raphy_co">Cherise Evertz<i className="bi bi-box-arrow-up-right ms-1"></i></a>
-                on <a href="https://unsplash.com/photos/compass-KdOAFDzB_Mg">Unsplash<i className="bi bi-box-arrow-up-right ms-1"></i></a>
-            </figcaption>
-        </figure>
-    </div>
-</div>
+import Button from 'react-bootstrap/Button';
+
+<div className="row align-items-center"> <div className="col-md-4"> <div className="display-6 mb-4">Health and Survival</div> <p>A place where you can find useful tips and resources on how to stay healthy and safe in various situations.</p> </div> <div className="col-md-8 d-flex justify-content-center"> <figure className="figure"> <img src="/images/cherise-evertz-KdOAFDzB_Mg-unsplash.jpg" className="figure-img img-fluid" alt="Compass" /> <figcaption className="figure-caption text-center"> Photo by <a href="https://unsplash.com/@cherise_raphy_co">Cherise Evertz<i className="bi bi-box-arrow-up-right ms-1"></i></a> on <a href="https://unsplash.com/photos/compass-KdOAFDzB_Mg">Unsplash<i className="bi bi-box-arrow-up-right ms-1"></i></a> </figcaption> </figure> </div> </div>
 
 Welcome to the **Health and Survival** section. This is a place where you can find useful tips and resources on how to stay healthy and safe in various situations.
+
+<div className="text-center mb-3"><Button variant="success" href="/home">Read now<i className="bi bi-arrow-right ms-2"></i></Button></div>
 
 Health is one of the most important aspects of life. It affects everything we do, from simple tasks like breathing or walking, to more complex ones like playing sports or making decisions. Having good health is not only a physical condition, but also a mental and emotional state. And having good health helps us survive. But survival is not just about avoiding accidents, it is also about living well and enjoying life.
 
