@@ -294,7 +294,7 @@ const SettingsModal = () => {
                             <hr />
                             <div className="row">
                                 <div className="col-auto d-flex align-items-center fw-semibold">Font Size</div>
-                                <div className="col-4 d-block ms-auto">
+                                <div className="col-6 d-block ms-auto">
                                     <Form>
                                         <Form.Group>
                                             <Form.Range
