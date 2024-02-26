@@ -1,10 +1,21 @@
-import Button from 'react-bootstrap/Button';
+---
+hide_table_of_contents: true
+---
 
-<div className="row align-items-center"> <div className="col-md-4"> <div className="display-6 mb-4">Health and Survival</div> <p>A place where you can find useful tips and resources on how to stay healthy and safe in various situations.</p> </div> <div className="col-md-8 d-flex justify-content-center"> <figure className="figure"> <img src="/images/cherise-evertz-KdOAFDzB_Mg-unsplash.jpg" className="figure-img img-fluid" alt="Compass" /> <figcaption className="figure-caption text-center"> Photo by <a href="https://unsplash.com/@cherise_raphy_co">Cherise Evertz<i className="bi bi-box-arrow-up-right ms-1"></i></a> on <a href="https://unsplash.com/photos/compass-KdOAFDzB_Mg">Unsplash<i className="bi bi-box-arrow-up-right ms-1"></i></a> </figcaption> </figure> </div> </div>
+import { Button, Card, Carousel, Row, Col } from "react-bootstrap";
+import HomePageCarousel from "@site/src/components/HomePageCarousel";
+
+<div className="row align-items-center"> <div className="col-md-4"> <div className="display-6 mb-4">Health and Survival</div> <p>A place where you can find useful tips and resources on how to stay healthy and safe in various situations.</p> </div> <div className="col-md-8 d-flex justify-content-center"> <figure className="figure"> <img src="/images/cherise-evertz-KdOAFDzB_Mg-unsplash.webp" className="figure-img img-fluid" alt="Compass" /> <figcaption className="figure-caption text-center"> Photo by <a href="https://unsplash.com/@cherise_raphy_co">Cherise Evertz<i className="bi bi-box-arrow-up-right ms-1"></i></a> on <a href="https://unsplash.com/photos/compass-KdOAFDzB_Mg">Unsplash<i className="bi bi-box-arrow-up-right ms-1"></i></a> </figcaption> </figure> </div> </div>
 
 Welcome to the **Health and Survival** section. This is a place where you can find useful tips and resources on how to stay healthy and safe in various situations.
 
 <div className="text-center mb-3"><Button variant="success" href="/home">Read now<i className="bi bi-arrow-right ms-2"></i></Button></div>
+
+## Here are some topics you might be interested
+
+<HomePageCarousel />
+
+## About
 
 Health is one of the most important aspects of life. It affects everything we do, from simple tasks like breathing or walking, to more complex ones like playing sports or making decisions. Having good health is not only a physical condition, but also a mental and emotional state. And having good health helps us survive. But survival is not just about avoiding accidents, it is also about living well and enjoying life.
 
@@ -19,11 +30,11 @@ In this site, I have collections of health and survival tips from many sources. 
 - Apple Health articles
 - _(more sources will be added)_
 
-<div class="fbgdbg">
-    <div class="blue-gradient"></div>
-    <div class="green-gradient"></div>
-    <div class="yellow-gradient"></div>
-    <div class="red-gradient"></div>
-    <div class="blue-gradient-bottom"></div>
-    <div class="purple-gradient"></div>
+<div className="fbgdbg">
+    <div className="blue-gradient"></div>
+    <div className="green-gradient"></div>
+    <div className="yellow-gradient"></div>
+    <div className="red-gradient"></div>
+    <div className="blue-gradient-bottom"></div>
+    <div className="purple-gradient"></div>
 </div>

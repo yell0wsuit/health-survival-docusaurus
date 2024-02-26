@@ -125,6 +125,11 @@ div[class^="announcementBar"] {
     overflow: unset;
 }
 
+.form-switch .form-check-input-lg {
+    width: 3rem !important;
+    height: 1.5rem;
+}
+
 /* fbgdbg */
 
 .fbgdbg {
