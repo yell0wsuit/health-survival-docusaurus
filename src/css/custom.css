@@ -199,6 +199,63 @@ div[class^="announcementBar"] {
     top: 28.59%;
 }
 
+/* Animated part. Feel free to change them as much as you want. */
+
+.green-gradient-animation {
+    animation-name: gga;
+    animation-duration: 40s;
+    animation-iteration-count: infinite
+}
+
+@keyframes gga {
+    50%, 100% {
+        transform: none
+    }
+
+    75% {
+        transform: translateY(36%)
+    }
+}
+
+.blue-gradient-bottom-animation {
+    animation-name: bgba;
+    animation-duration: 80s;
+    animation-iteration-count: infinite
+}
+
+@keyframes bgba {
+    0%, 50% {
+        transform: none
+    }
+
+    25% {
+        transform: translate(16%, -53%)
+    }
+}
+
+.purple-gradient-animation {
+    animation-name: pga;
+    animation-duration: 120s;
+    animation-iteration-count: infinite
+}
+
+@keyframes pga {
+    0%, 100% {
+        opacity: 1;
+        transform: none
+    }
+
+    25%,75% {
+        opacity: .5;
+        transform: none
+    }
+
+    50% {
+        opacity: .5;
+        transform: translate(-42%, 15%)
+    }
+}
+
 /* Selected Bootstrap reboot styles -- to prevent breaking Docusaurus */
 
 figure {

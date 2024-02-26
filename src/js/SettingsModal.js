@@ -7,12 +7,84 @@ const SettingsModal = () => {
     const handleClose = () => setShow(false);
     const handleShow = () => setShow(true);
 
+    /* Colored bg */
+
+    const [coloredBackgroundEnabled, setColoredBackgroundEnabled] = useState(false);
+    const [animatedBackgroundEnabled, setAnimatedBackgroundEnabled] = useState(false);
+
+    const handleColoredBackgroundChange = (e) => {
+        const isChecked = e.target.checked;
+        // Update state based on checkbox
+        setColoredBackgroundEnabled(isChecked);
+        // Call the function to toggle the background visibility
+        toggleColoredBackground(isChecked);
+
+        // Automatically disable the "animated background" if "colored background" is disabled
+        if (!isChecked) {
+            setAnimatedBackgroundEnabled(false);
+            toggleAnimatedBackground(false);
+        }
+
+        updateColorBgSettings({
+            coloredBackgroundEnabled: isChecked,
+            animatedBackgroundEnabled: isChecked ? animatedBackgroundEnabled : false,
+        });
+    };
+
+    const handleAnimatedBackgroundChange = (e) => {
+        const isChecked = e.target.checked;
+        setAnimatedBackgroundEnabled(isChecked);
+        toggleAnimatedBackground(isChecked);
+        updateColorBgSettings({
+            coloredBackgroundEnabled,
+            animatedBackgroundEnabled: isChecked,
+        });
+    };
+
+    // Function to toggle colored background visibility
+    function toggleColoredBackground(enable) {
+        const coloredBgDiv = document.getElementById("coloredBgToggleDiv");
+        if (enable) {
+            coloredBgDiv.classList.remove("d-none");
+        } else {
+            coloredBgDiv.classList.add("d-none");
+        }
+    }
+
+    // Function to toggle animation for colored background
+    function toggleAnimatedBackground(enable) {
+        const animations = {
+            greenAnimation: "green-gradient-animation",
+            blueAnimation: "blue-gradient-bottom-animation",
+            purpleAnimation: "purple-gradient-animation",
+        };
+
+        Object.keys(animations).forEach((id) => {
+            const element = document.getElementById(id);
+            if (enable) {
+                element.classList.add(animations[id]);
+            } else {
+                element.classList.remove(animations[id]);
+            }
+        });
+    }
+
+    const updateColorBgSettings = (newColorBgSettings) => {
+        const newSettings = { ...settings, ...newColorBgSettings };
+        setSettings(newSettings);
+        localStorage.setItem("healthandsurvival", JSON.stringify(newSettings));
+    }
+
+    /* Dark / Light / Auto theme */
+
     const { setColorMode } = useColorMode();
     // Define default settings
     const defaultSettings = {
         themeSetting: "auto",
         selectedFont: "Inter",
         fontSize: 16, // default size in px
+        coloredBackgroundEnabled: false,
+        animatedBackgroundEnabled: false,
     };
 
     // Load settings from localStorage or use defaults
@@ -22,10 +94,14 @@ const SettingsModal = () => {
     });
 
     const applySettings = () => {
-        const { themeSetting, selectedFont } = settings;
+        const { themeSetting, selectedFont, fontSize, coloredBackgroundEnabled, animatedBackgroundEnabled } = settings;
         applyThemeSetting(themeSetting);
         applyFontSetting(selectedFont);
-        applyFontSize(settings.fontSize);
+        applyFontSize(fontSize);
+        setColoredBackgroundEnabled(coloredBackgroundEnabled);
+        toggleColoredBackground(coloredBackgroundEnabled);
+        setAnimatedBackgroundEnabled(animatedBackgroundEnabled);
+        toggleAnimatedBackground(animatedBackgroundEnabled);
     };
 
     const applyThemeSetting = (themeSetting) => {
@@ -41,6 +117,8 @@ const SettingsModal = () => {
         setColorMode(finalTheme);
         document.documentElement.setAttribute("data-bs-theme", finalTheme);
     };
+
+    /* Font */
 
     const applyFontSetting = (fontName) => {
         const selectedFont = fonts.find((font) => font.fontFamily === fontName);
@@ -145,12 +223,12 @@ const SettingsModal = () => {
         // Filter the fonts array to get the selected font based on fontFamily
         const selectedFont = fonts.filter((font) => font.fontFamily === selectedFontFamily)[0];
 
-        if (selectedFont) {
+        if (selectedFont && selectedFont.url) {
             // Load normal style font
             const dynamicFont = new FontFace(selectedFont.fontFamily, `url(${selectedFont.url})`, {
                 style: "normal",
                 weight: "300 900",
-                display: "swap"
+                display: "swap",
             });
 
             // Load italic style font, if available
@@ -159,7 +237,7 @@ const SettingsModal = () => {
                 dynamicFontItalic = new FontFace(selectedFont.fontFamily, `url(${selectedFont.urlItalic})`, {
                     style: "italic",
                     weight: "300 900",
-                    display: "swap"
+                    display: "swap",
                 });
             }
 
@@ -177,7 +255,9 @@ const SettingsModal = () => {
                     console.error("Dynamic fonts failed to load for", selectedFont.fontFamily, error);
                 });
         } else {
-            console.error("Selected font not found:", selectedFontFamily);
+            console.warn(
+                `Selected font not found: ${selectedFontFamily}.\nFor the "Inter" font, this can be ignored as it's included in CSS by default.`
+            );
         }
     }
 
@@ -262,6 +342,39 @@ const SettingsModal = () => {
                                     </Dropdown>
                                 </div>
                             </div>
+                        </Card.Body>
+                    </Card>
+                    <Card className="mt-3">
+                        <Card.Body>
+                            <div className="form-check form-switch px-0 mb-1">
+                                <label className="form-check-label float-start fw-semibold" htmlFor="coloredBackgroundToggle" role="button">
+                                    Colored background
+                                </label>
+                                <input
+                                    className="form-check-input form-check-input-lg float-end"
+                                    type="checkbox"
+                                    role="button"
+                                    id="coloredBackgroundToggle"
+                                    checked={coloredBackgroundEnabled}
+                                    onChange={handleColoredBackgroundChange}
+                                />
+                            </div>
+                            <hr />
+                            <div className="form-check form-switch px-0 mb-1">
+                                <label className="form-check-label float-start fw-semibold" htmlFor="animatedToggle" role="button">
+                                    Animated colored background
+                                </label>
+                                <input
+                                    className="form-check-input form-check-input-lg float-end"
+                                    type="checkbox"
+                                    role="button"
+                                    id="animatedToggle"
+                                    checked={animatedBackgroundEnabled}
+                                    onChange={handleAnimatedBackgroundChange}
+                                    disabled={!coloredBackgroundEnabled}
+                                />
+                            </div>
+                            <p className="mb-0 small text-secondary">Switching this on may affect performance. Use with caution.</p>
                         </Card.Body>
                     </Card>
                     <hr />

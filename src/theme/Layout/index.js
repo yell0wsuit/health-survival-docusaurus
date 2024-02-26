@@ -4,7 +4,7 @@ import NProgress from "nprogress";
 import "nprogress/nprogress.css";
 import { useHistory } from "react-router-dom";
 
-import ImageZoom from "../../components/ImageZoom";
+import ImageZoom from "@site/src/components/ImageZoom";
 import { SpeedInsights } from "@vercel/speed-insights/react";
 
 const LayoutWrapper = (props) => {
@@ -47,6 +47,14 @@ const LayoutWrapper = (props) => {
             <OriginalLayout {...props} />
             <ImageZoom />
             <SpeedInsights />
+            <div className="fbgdbg d-none" id="coloredBgToggleDiv">
+                <div className="blue-gradient"></div>
+                <div className="green-gradient" id="greenAnimation"></div>
+                <div className="yellow-gradient"></div>
+                <div className="red-gradient"></div>
+                <div className="blue-gradient-bottom" id="blueAnimation"></div>
+                <div className="purple-gradient" id="purpleAnimation"></div>
+            </div>
         </>
     );
 };
