@@ -19,7 +19,7 @@ function HomePageCarousel() {
     };
 
     return (
-        <div className="mb-4">
+        <div className="mb-3">
             <div className="text-center">
                 <button className="btn btn-primary mb-3 me-1" onClick={goToPrev}>
                     <i className="bi bi-arrow-left"></i>
@@ -31,7 +31,7 @@ function HomePageCarousel() {
             <Carousel fade indicators={false} id="cardCarousel" controls={false} activeIndex={index} onSelect={handleSelect}>
                 <Carousel.Item>
                     <Row>
-                        <Col className="d-flex">
+                        <Col md={3} lg={4} className="d-flex mb-3">
                             <Card>
                                 <Card.Img variant="top" src="/images/apple-health/Eucalyptus-Sleep_Article_illustration.jpg" />
                                 <Card.Body>
@@ -43,7 +43,7 @@ function HomePageCarousel() {
                                 </Card.Body>
                             </Card>
                         </Col>
-                        <Col className="d-flex">
+                        <Col md={3} lg={4} className="d-flex mb-3">
                             <Card>
                                 <Card.Img variant="top" src="/images/apple-health/MoodsEmotion_Article_Illustration.jpg" />
                                 <Card.Body>
@@ -55,7 +55,7 @@ function HomePageCarousel() {
                                 </Card.Body>
                             </Card>
                         </Col>
-                        <Col className="d-flex">
+                        <Col md={3} lg={4} className="d-flex mb-3">
                             <Card>
                                 <Card.Img variant="top" src="/images/sas-urban/wildfire1.jpg" />
                                 <Card.Body>
@@ -71,7 +71,7 @@ function HomePageCarousel() {
                 </Carousel.Item>
                 <Carousel.Item>
                     <Row>
-                        <Col className="d-flex">
+                        <Col md={3} lg={4} className="d-flex mb-3">
                             <Card>
                                 <Card.Img variant="top" src="/images/sas-urban/1537827855952.webp" />
                                 <Card.Body>
@@ -83,7 +83,7 @@ function HomePageCarousel() {
                                 </Card.Body>
                             </Card>
                         </Col>
-                        <Col className="d-flex">
+                        <Col md={3} lg={4} className="d-flex mb-3">
                             <Card>
                                 <Card.Img variant="top" src="/images/sas-urban/Community_Transit_15814_Double_Tall_in_Seattle-scaled.jpg" />
                                 <Card.Body>
@@ -95,7 +95,7 @@ function HomePageCarousel() {
                                 </Card.Body>
                             </Card>
                         </Col>
-                        <Col className="d-flex">
+                        <Col md={3} lg={4} className="d-flex mb-3">
                             <Card>
                                 <Card.Img variant="top" src="/images/sas-survival/essentials_hero.webp" />
                                 <Card.Body>
