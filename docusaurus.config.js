@@ -60,7 +60,40 @@ const config = {
         ],
     ],
 
-    plugins: [require.resolve("docusaurus-lunr-search"), "docusaurus-plugin-sass"],
+    plugins: [
+        [
+            require.resolve("docusaurus-lunr-search"),
+            {
+                excludeRoutes: ["/apple-health/mental-health-quiz"],
+                maxHits: 8
+            },
+        ],
+        "docusaurus-plugin-sass",
+        [
+            "@docusaurus/plugin-pwa",
+            {
+                //debug: true,
+                //offlineModeActivationStrategies: ["appInstalled", "standalone", "queryString"],
+                pwaHead: [
+                    {
+                        tagName: "link",
+                        rel: "icon",
+                        href: "/img/icons/appicon-512.png",
+                    },
+                    {
+                        tagName: "link",
+                        rel: "manifest",
+                        href: "/manifest.json",
+                    },
+                    {
+                        tagName: "meta",
+                        name: "theme-color",
+                        content: "#f2f4ea",
+                    },
+                ],
+            },
+        ],
+    ],
     scripts: [
         /*{
       src: '/scripts/customThemeSwitch.js',
