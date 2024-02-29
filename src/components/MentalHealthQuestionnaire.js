@@ -94,6 +94,7 @@ const MentalHealthQuestionnaire = () => {
     // Render questions
     const renderQuestions = () => (
         <div>
+            <h2>{t("MentalHealthQuestionnaireStrings.heading")}</h2>
             {questions.map((question) => (
                 <div key={question.id} className={`mb-4 form-group ${showValidation && answers[question.id] === undefined ? "has-validation" : ""}`}>
                     <div className="mb-2 fw-semibold">
@@ -309,7 +310,7 @@ const MentalHealthQuestionnaire = () => {
                             aria-valuemin="0"
                             aria-valuemax="100"></div>
                     </div>
-                    <div className="d-flex mb-4">
+                    <div className="d-flex">
                         <div className="py-2">{t("MentalHealthQuestionnaireStrings.noneResultBar")} (0-4)</div>
                         <div className="ms-auto py-2">{t("MentalHealthQuestionnaireStrings.severeResultBar")} (20-27)</div>
                     </div>

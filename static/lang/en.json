@@ -1,5 +1,6 @@
 {
     "MentalHealthQuestionnaireStrings": {
+        "heading": "Over the last two weeks, how often have you been bothered by the following problems?",
         "question1": "Feeling nervous, anxious or on edge",
         "question2": "Not being able to stop or control everything",
         "question3": "Worrying too much about different things",
