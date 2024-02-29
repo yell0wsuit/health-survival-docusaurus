@@ -4,15 +4,15 @@ import HttpBackend from "i18next-http-backend";
 import LanguageDetector from "i18next-browser-languagedetector";
 
 import translationEN from "/lang/en.json";
-import translationVI from "/lang/vi.json";
+//import translationVI from "/lang/vi.json";
 
 const resources = {
     en: {
         translation: translationEN,
     },
-    vi: {
+    /*vi: {
         translation: translationVI,
-    },
+    },*/
 };
 
 i18n.use(HttpBackend)
