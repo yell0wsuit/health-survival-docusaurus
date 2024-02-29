@@ -10,7 +10,7 @@ import { themes as prismThemes } from "prism-react-renderer";
 const config = {
     title: "Health & Survival articles | yell0wsuit's website",
     tagline: "A collections of health and survival articles by yell0wsuit",
-    favicon: "img/favicon.svg",
+    favicon: "favicon.ico",
 
     // Set the production url of your site here
     url: "https://health.yell0wsuit.page",
@@ -111,7 +111,7 @@ const config = {
                 title: "yell0wsuit",
                 logo: {
                     alt: "yell0wsuit logo",
-                    src: "img/favicon.svg",
+                    src: "img/logo.svg",
                 },
                 items: [
                     {
