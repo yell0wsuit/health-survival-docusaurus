@@ -14,14 +14,14 @@
     "write-heading-ids": "docusaurus write-heading-ids"
   },
   "dependencies": {
-    "@docusaurus/core": "^3.1.1",
-    "@docusaurus/plugin-pwa": "^3.1.1",
-    "@docusaurus/preset-classic": "3.1.1",
+    "@docusaurus/core": "^3.4.0",
+    "@docusaurus/preset-classic": "^3.4.0",
+    "@docusaurus/plugin-pwa": "latest",
+    "@easyops-cn/docusaurus-search-local": "^0.44.4",
     "@mdx-js/react": "^3.0.0",
     "@vercel/speed-insights": "^1.0.10",
-    "bootstrap": "^5.3.2",
+    "bootstrap": "latest",
     "clsx": "^2.0.0",
-    "docusaurus-lunr-search": "^3.3.2",
     "docusaurus-plugin-image-zoom": "^2.0.0",
     "docusaurus-plugin-sass": "^0.2.5",
     "i18next": "^23.9.0",
@@ -30,7 +30,7 @@
     "nprogress": "^0.2.0",
     "prism-react-renderer": "^2.3.0",
     "react": "^18.0.0",
-    "react-bootstrap": "^2.10.1",
+    "react-bootstrap": "latest",
     "react-dom": "^18.0.0",
     "react-i18next": "^14.0.5"
   },

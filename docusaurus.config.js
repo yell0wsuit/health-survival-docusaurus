@@ -60,14 +60,20 @@ const config = {
         ],
     ],
 
-    plugins: [
+    themes: [
         [
-            require.resolve("docusaurus-lunr-search"),
+            require.resolve("@easyops-cn/docusaurus-search-local"),
+            /** @type {import("@easyops-cn/docusaurus-search-local").PluginOptions} */
             {
-                excludeRoutes: ["/apple-health/mental-health-quiz"],
-                maxHits: 8
+                hashed: true,
+                explicitSearchResultPath: true,
+                docsRouteBasePath: "/",
+                ignoreFiles: "/apple-health/mental-health-quiz"
             },
         ],
+    ],
+
+    plugins: [
         "docusaurus-plugin-sass",
         [
             "@docusaurus/plugin-pwa",
