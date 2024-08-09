@@ -20,8 +20,8 @@ const config = {
 
     // GitHub pages deployment config.
     // If you aren't using GitHub pages, you don't need these.
-    // organizationName: 'facebook', // Usually your GitHub org/user name.
-    // projectName: 'docusaurus', // Usually your repo name.
+    organizationName: "yell0wsuit", // Usually your GitHub org/user name.
+    projectName: "health-survival-docusaurus", // Usually your repo name.
 
     onBrokenLinks: "warn",
     onBrokenMarkdownLinks: "warn",
@@ -68,7 +68,7 @@ const config = {
                 hashed: true,
                 explicitSearchResultPath: true,
                 docsRouteBasePath: "/",
-                ignoreFiles: "/apple-health/mental-health-quiz"
+                ignoreFiles: "/apple-health/mental-health-quiz",
             },
         ],
     ],
