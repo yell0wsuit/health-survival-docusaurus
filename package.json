@@ -28,7 +28,7 @@
     "i18next-browser-languagedetector": "^8.0.0",
     "i18next-http-backend": "^2.6.1",
     "nprogress": "^0.2.0",
-    "prism-react-renderer": "^2.3.1",
+    "prism-react-renderer": "^2.4.0",
     "react": "^18.3.1",
     "react-bootstrap": "latest",
     "react-dom": "^18.3.1",
