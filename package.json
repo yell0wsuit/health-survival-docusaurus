@@ -37,7 +37,7 @@
   "devDependencies": {
     "@docusaurus/module-type-aliases": "^3.5.2",
     "@docusaurus/types": "^3.5.2",
-    "sass": "^1.78.0"
+    "sass": "^1.79.3"
   },
   "browserslist": {
     "production": [
