@@ -35,7 +35,7 @@
     "react-i18next": "^15.1.0"
   },
   "devDependencies": {
-    "@docusaurus/module-type-aliases": "^3.5.2",
+    "@docusaurus/module-type-aliases": "^3.6.0",
     "@docusaurus/types": "^3.6.0",
     "sass": "^1.80.4"
   },
