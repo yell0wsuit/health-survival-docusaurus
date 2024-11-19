@@ -5,7 +5,6 @@ import "nprogress/nprogress.css";
 import { useHistory } from "react-router-dom";
 
 import ImageZoom from "@site/src/components/ImageZoom";
-import { SpeedInsights } from "@vercel/speed-insights/react";
 
 const LayoutWrapper = (props) => {
     const history = useHistory();
