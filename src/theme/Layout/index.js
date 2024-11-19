@@ -45,7 +45,6 @@ const LayoutWrapper = (props) => {
         <>
             <OriginalLayout {...props} />
             <ImageZoom />
-            <SpeedInsights />
             <div className="fbgdbg d-none" id="coloredBgToggleDiv">
                 <div className="blue-gradient"></div>
                 <div className="green-gradient" id="greenAnimation"></div>
