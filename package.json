@@ -24,7 +24,7 @@
     "clsx": "^2.1.1",
     "docusaurus-plugin-image-zoom": "^2.0.0",
     "docusaurus-plugin-sass": "^0.2.5",
-    "i18next": "^24.0.2",
+    "i18next": "^24.0.5",
     "i18next-browser-languagedetector": "^8.0.0",
     "i18next-http-backend": "^3.0.1",
     "nprogress": "^0.2.0",
