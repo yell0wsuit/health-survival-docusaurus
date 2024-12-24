@@ -32,7 +32,7 @@
     "react": "^18.3.1",
     "react-bootstrap": "latest",
     "react-dom": "^18.3.1",
-    "react-i18next": "^15.1.1"
+    "react-i18next": "^15.2.0"
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "^3.6.3",
