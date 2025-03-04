@@ -14,30 +14,30 @@
     "write-heading-ids": "docusaurus write-heading-ids"
   },
   "dependencies": {
-    "@docusaurus/core": "^3.6.3",
-    "@docusaurus/faster": "^3.6.3",
+    "@docusaurus/core": "^3.7.0",
+    "@docusaurus/faster": "^3.7.0",
     "@docusaurus/plugin-pwa": "latest",
-    "@docusaurus/preset-classic": "^3.6.3",
-    "@easyops-cn/docusaurus-search-local": "^0.46.1",
+    "@docusaurus/preset-classic": "^3.7.0",
+    "@easyops-cn/docusaurus-search-local": "^0.48.5",
     "@mdx-js/react": "^3.1.0",
     "bootstrap": "latest",
     "clsx": "^2.1.1",
-    "docusaurus-plugin-image-zoom": "^2.0.0",
-    "docusaurus-plugin-sass": "^0.2.5",
-    "i18next": "^24.2.0",
-    "i18next-browser-languagedetector": "^8.0.0",
-    "i18next-http-backend": "^3.0.1",
+    "docusaurus-plugin-image-zoom": "^3.0.1",
+    "docusaurus-plugin-sass": "^0.2.6",
+    "i18next": "^24.2.2",
+    "i18next-browser-languagedetector": "^8.0.4",
+    "i18next-http-backend": "^3.0.2",
     "nprogress": "^0.2.0",
-    "prism-react-renderer": "^2.4.0",
-    "react": "^18.3.1",
+    "prism-react-renderer": "^2.4.1",
+    "react": "^19.0.0",
     "react-bootstrap": "latest",
-    "react-dom": "^18.3.1",
-    "react-i18next": "^15.2.0"
+    "react-dom": "^19.0.0",
+    "react-i18next": "^15.4.1"
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "^3.7.0",
-    "@docusaurus/types": "^3.6.3",
-    "sass": "^1.81.0"
+    "@docusaurus/types": "^3.7.0",
+    "sass": "^1.85.1"
   },
   "browserslist": {
     "production": [
