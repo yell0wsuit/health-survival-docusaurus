@@ -195,6 +195,7 @@ const config = {
         }),
 
     future: {
+        v4: true,
         experimental_faster: true,
     },
 };
